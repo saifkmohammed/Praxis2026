@@ -1,0 +1,1001 @@
+Project_ID,Schedule_Variance_Days,Cost_Variance_%,Change_Order_Rate,Project_Size,Contract_Type,Region
+1,81,21.84,0.6,Medium,Time & Material,Middle East
+2,113,27.89,0.83,Small,Fixed Price,Europe
+3,28,-43.05,0.72,Medium,Cost Plus,Middle East
+4,125,-19.45,0.79,Large,Fixed Price,Middle East
+5,79,20.03,0.74,Small,Fixed Price,Middle East
+6,192,19.6,0.13,Medium,Fixed Price,Asia
+7,151,-0.31,0.38,Medium,Cost Plus,North America
+8,-62,11.08,0.5,Medium,Cost Plus,Europe
+9,21,-46.26,0.11,Small,Time & Material,Middle East
+10,70,5.16,0.54,Medium,Fixed Price,Middle East
+11,-76,3.29,0.6,Large,Fixed Price,North America
+12,147,-4.82,0.44,Medium,Cost Plus,Europe
+13,163,-34.95,0.27,Small,Cost Plus,Asia
+14,94,0.48,0.33,Medium,Cost Plus,Asia
+15,35,-23.5,0.25,Small,Fixed Price,Europe
+16,86,1.86,0.02,Small,Fixed Price,North America
+17,81,-26.49,0.65,Large,Time & Material,Asia
+18,96,11.91,0.59,Medium,Fixed Price,Asia
+19,-45,-14.59,0.95,Medium,Fixed Price,Middle East
+20,83,1.42,0.12,Small,Cost Plus,Asia
+21,164,31.88,0.6,Small,Time & Material,Asia
+22,-66,33.08,0.74,Small,Fixed Price,Middle East
+23,56,44.54,0.92,Small,Fixed Price,North America
+24,-37,-30.45,0.75,Large,Time & Material,Asia
+25,-18,1.55,0.28,Small,Cost Plus,Europe
+26,-21,2.5,0.43,Large,Fixed Price,Middle East
+27,63,38.07,0.61,Small,Time & Material,North America
+28,40,-18.36,0.28,Large,Cost Plus,Middle East
+29,192,46.4,0.05,Large,Fixed Price,North America
+30,50,-3.7,0.74,Medium,Fixed Price,Europe
+31,160,31.22,0.96,Medium,Cost Plus,North America
+32,-61,8.0,0.04,Medium,Cost Plus,Asia
+33,-89,-9.08,0.33,Medium,Cost Plus,Middle East
+34,54,4.13,0.66,Medium,Fixed Price,Middle East
+35,91,8.35,0.33,Large,Cost Plus,North America
+36,-87,-1.98,0.81,Large,Cost Plus,Asia
+37,-75,-29.68,1.0,Large,Time & Material,Europe
+38,21,-33.42,0.21,Small,Cost Plus,Middle East
+39,107,-11.72,0.63,Large,Fixed Price,Asia
+40,172,-13.74,0.05,Medium,Fixed Price,Asia
+41,37,28.65,0.05,Small,Fixed Price,Asia
+42,-77,-7.88,0.38,Small,Cost Plus,Europe
+43,95,37.78,0.66,Large,Time & Material,Middle East
+44,-34,-8.2,0.91,Large,Time & Material,Asia
+45,-54,46.55,0.56,Large,Cost Plus,Europe
+46,-32,-31.54,0.81,Medium,Fixed Price,Asia
+47,-96,-6.62,0.21,Large,Fixed Price,Middle East
+48,-85,45.53,0.79,Medium,Time & Material,North America
+49,35,-0.93,0.34,Small,Time & Material,Asia
+50,-85,-32.95,0.77,Large,Fixed Price,Europe
+51,170,9.53,0.53,Small,Fixed Price,Middle East
+52,112,45.28,0.7,Small,Time & Material,Middle East
+53,128,-37.65,0.48,Medium,Time & Material,Middle East
+54,9,-42.49,0.86,Large,Time & Material,Middle East
+55,13,-6.05,0.6,Small,Time & Material,Asia
+56,105,8.95,0.72,Small,Time & Material,Europe
+57,155,3.51,0.27,Small,Fixed Price,Middle East
+58,169,-17.28,0.16,Small,Fixed Price,Europe
+59,80,-34.21,0.42,Medium,Fixed Price,Asia
+60,80,-26.22,0.72,Large,Cost Plus,Asia
+61,104,39.52,0.57,Medium,Time & Material,North America
+62,125,41.78,0.74,Small,Time & Material,Asia
+63,155,-22.09,0.45,Medium,Time & Material,North America
+64,57,26.87,0.17,Large,Cost Plus,North America
+65,196,14.78,0.52,Large,Fixed Price,North America
+66,-41,18.32,0.31,Small,Fixed Price,Europe
+67,-83,-31.96,0.95,Large,Time & Material,Middle East
+68,137,-5.14,0.03,Large,Cost Plus,Asia
+69,177,-0.58,0.67,Large,Fixed Price,Europe
+70,112,41.42,0.15,Medium,Fixed Price,North America
+71,18,3.64,0.95,Small,Fixed Price,Middle East
+72,-11,-42.77,0.24,Small,Cost Plus,North America
+73,34,-36.18,0.18,Medium,Time & Material,Middle East
+74,66,-22.96,0.69,Small,Time & Material,Middle East
+75,18,4.19,0.73,Large,Cost Plus,Europe
+76,93,8.78,0.55,Medium,Fixed Price,Middle East
+77,-64,-22.03,0.7,Medium,Cost Plus,Europe
+78,95,10.1,0.04,Large,Cost Plus,North America
+79,-80,-2.45,0.33,Large,Cost Plus,Middle East
+80,3,38.77,0.67,Medium,Fixed Price,Europe
+81,10,-22.14,0.53,Large,Fixed Price,North America
+82,82,28.63,0.14,Large,Cost Plus,Europe
+83,54,-41.67,0.99,Small,Cost Plus,Middle East
+84,121,4.47,1.0,Medium,Time & Material,Europe
+85,-42,-31.21,0.12,Medium,Time & Material,Asia
+86,103,-46.04,0.03,Medium,Cost Plus,Middle East
+87,-29,-14.66,0.17,Medium,Cost Plus,Asia
+88,50,-5.73,0.97,Small,Time & Material,Asia
+89,-15,25.66,0.75,Small,Cost Plus,North America
+90,-48,-1.28,0.71,Medium,Fixed Price,Europe
+91,3,30.39,0.3,Large,Fixed Price,North America
+92,-45,-11.45,0.24,Small,Time & Material,Asia
+93,104,-15.46,0.69,Large,Fixed Price,Europe
+94,-63,29.4,0.52,Medium,Time & Material,Europe
+95,-55,31.8,0.73,Large,Fixed Price,Europe
+96,-65,-7.3,0.5,Small,Time & Material,Europe
+97,-73,-40.54,0.58,Medium,Fixed Price,North America
+98,17,46.44,0.32,Large,Time & Material,Asia
+99,71,40.28,0.65,Small,Cost Plus,Asia
+100,-18,39.41,0.11,Small,Fixed Price,North America
+101,41,-48.19,0.44,Large,Time & Material,North America
+102,88,-29.04,0.61,Large,Cost Plus,North America
+103,35,-4.43,0.3,Small,Fixed Price,Europe
+104,1,21.44,0.94,Large,Time & Material,Middle East
+105,-6,35.96,0.98,Large,Time & Material,Europe
+106,132,26.25,0.76,Small,Time & Material,Middle East
+107,161,36.57,0.89,Small,Time & Material,Asia
+108,81,31.57,0.52,Small,Time & Material,Middle East
+109,39,-35.44,0.59,Medium,Time & Material,Europe
+110,135,42.51,0.56,Medium,Fixed Price,Europe
+111,162,-14.68,0.8,Medium,Fixed Price,Asia
+112,36,0.77,0.8,Small,Time & Material,Europe
+113,189,-38.55,0.18,Large,Cost Plus,Middle East
+114,101,-17.49,0.71,Small,Time & Material,Middle East
+115,110,35.87,0.46,Small,Fixed Price,Asia
+116,103,-35.22,0.75,Medium,Time & Material,Middle East
+117,151,-38.83,0.38,Medium,Cost Plus,Europe
+118,42,48.86,0.01,Large,Time & Material,Europe
+119,-65,34.02,0.77,Medium,Time & Material,Middle East
+120,83,-32.04,0.17,Medium,Cost Plus,North America
+121,76,47.88,0.71,Medium,Time & Material,Europe
+122,29,28.76,0.48,Large,Time & Material,North America
+123,199,-31.17,0.32,Large,Fixed Price,Europe
+124,-3,5.28,0.08,Large,Cost Plus,Asia
+125,-58,34.08,0.83,Small,Fixed Price,Middle East
+126,-45,-8.65,0.91,Small,Fixed Price,Europe
+127,162,-12.26,0.73,Small,Fixed Price,Europe
+128,17,-0.31,0.08,Small,Time & Material,Europe
+129,18,39.65,0.75,Small,Time & Material,North America
+130,79,-48.58,0.2,Medium,Time & Material,North America
+131,-62,27.25,0.05,Medium,Cost Plus,Asia
+132,135,-6.5,0.56,Large,Fixed Price,Middle East
+133,117,-20.82,0.63,Medium,Time & Material,North America
+134,88,-3.16,0.5,Small,Cost Plus,Europe
+135,58,46.39,0.57,Medium,Time & Material,North America
+136,75,24.1,0.98,Small,Fixed Price,Europe
+137,141,10.4,0.58,Medium,Time & Material,Europe
+138,108,-23.81,0.59,Medium,Cost Plus,Europe
+139,112,-27.6,0.85,Medium,Time & Material,Middle East
+140,112,-14.66,0.93,Small,Time & Material,Middle East
+141,-35,-26.34,0.88,Small,Fixed Price,Europe
+142,64,-22.02,0.78,Large,Time & Material,Europe
+143,54,4.35,0.41,Small,Time & Material,North America
+144,76,33.97,0.77,Medium,Time & Material,Middle East
+145,108,12.55,0.73,Medium,Cost Plus,Europe
+146,-31,-14.41,0.17,Small,Fixed Price,North America
+147,-13,-17.4,0.01,Medium,Time & Material,North America
+148,-83,-3.65,0.7,Small,Time & Material,Middle East
+149,-12,-48.18,0.58,Small,Time & Material,Asia
+150,172,34.0,0.47,Small,Fixed Price,North America
+151,82,33.26,0.64,Medium,Cost Plus,Europe
+152,164,-15.1,0.82,Small,Fixed Price,Asia
+153,-51,-15.43,0.07,Large,Time & Material,Europe
+154,141,-44.54,0.89,Large,Fixed Price,Europe
+155,-62,27.65,0.65,Medium,Time & Material,North America
+156,192,-26.46,0.74,Large,Fixed Price,Middle East
+157,91,-46.89,0.68,Small,Fixed Price,Middle East
+158,94,45.19,0.34,Large,Time & Material,North America
+159,110,-14.79,0.2,Large,Time & Material,Asia
+160,51,-16.2,0.26,Large,Cost Plus,Asia
+161,-16,-8.32,0.16,Small,Fixed Price,Europe
+162,-86,13.73,0.58,Large,Cost Plus,Middle East
+163,178,-14.57,0.75,Large,Time & Material,Middle East
+164,42,-21.92,0.61,Large,Cost Plus,Middle East
+165,-63,4.56,0.49,Large,Cost Plus,Middle East
+166,57,-12.28,0.52,Small,Time & Material,Middle East
+167,-58,10.01,0.82,Small,Cost Plus,Middle East
+168,-72,-14.49,0.36,Medium,Cost Plus,North America
+169,128,24.72,0.66,Small,Time & Material,North America
+170,65,-29.3,0.43,Small,Fixed Price,North America
+171,54,39.17,0.93,Small,Cost Plus,North America
+172,146,-22.6,0.87,Large,Fixed Price,Asia
+173,181,-33.55,0.86,Large,Cost Plus,Asia
+174,128,-11.2,0.67,Medium,Time & Material,Middle East
+175,115,22.9,0.98,Large,Time & Material,Middle East
+176,8,-47.54,0.38,Large,Cost Plus,North America
+177,41,29.58,0.6,Small,Time & Material,Europe
+178,-81,31.29,0.23,Large,Cost Plus,North America
+179,-38,-43.7,0.03,Small,Cost Plus,Asia
+180,16,-38.06,0.64,Medium,Fixed Price,North America
+181,-44,33.12,0.7,Large,Cost Plus,North America
+182,108,43.91,0.02,Medium,Cost Plus,Middle East
+183,-89,17.8,0.99,Medium,Time & Material,Middle East
+184,49,-43.77,0.92,Medium,Time & Material,North America
+185,-62,8.71,0.44,Small,Cost Plus,Asia
+186,150,-14.39,0.69,Large,Time & Material,Middle East
+187,196,32.39,0.1,Medium,Time & Material,Asia
+188,-93,-4.63,0.69,Large,Cost Plus,Middle East
+189,11,42.01,0.72,Small,Time & Material,Middle East
+190,16,-16.35,0.9,Small,Fixed Price,North America
+191,83,26.18,0.04,Large,Time & Material,Middle East
+192,130,33.3,0.09,Large,Fixed Price,North America
+193,196,-43.36,0.9,Small,Fixed Price,North America
+194,-49,-25.2,0.65,Medium,Fixed Price,North America
+195,155,16.45,0.21,Large,Cost Plus,Asia
+196,73,9.09,0.46,Large,Time & Material,Europe
+197,123,-49.28,0.22,Medium,Time & Material,Middle East
+198,-58,-6.41,0.86,Small,Cost Plus,North America
+199,77,39.72,0.46,Medium,Cost Plus,Middle East
+200,31,27.43,0.36,Small,Fixed Price,Asia
+201,155,22.03,0.46,Small,Cost Plus,Middle East
+202,-91,-30.83,0.76,Medium,Fixed Price,Middle East
+203,51,-13.36,0.05,Medium,Cost Plus,North America
+204,116,12.6,0.53,Medium,Time & Material,Europe
+205,124,-48.98,0.04,Large,Cost Plus,Middle East
+206,-39,-35.51,0.28,Large,Cost Plus,Asia
+207,-88,-43.13,0.72,Medium,Cost Plus,North America
+208,-95,48.52,0.13,Large,Fixed Price,Europe
+209,-40,14.84,0.37,Medium,Time & Material,Middle East
+210,127,16.49,0.36,Small,Fixed Price,Middle East
+211,-84,28.21,0.88,Medium,Time & Material,Europe
+212,71,-21.77,0.86,Small,Fixed Price,North America
+213,-6,48.45,0.13,Small,Fixed Price,Europe
+214,158,-40.52,0.85,Medium,Fixed Price,Asia
+215,149,-29.16,0.37,Medium,Time & Material,Europe
+216,-67,-1.81,0.49,Medium,Cost Plus,Middle East
+217,-4,49.22,0.19,Large,Cost Plus,North America
+218,-14,-31.22,0.78,Large,Fixed Price,Europe
+219,-23,11.43,0.85,Small,Time & Material,Europe
+220,-88,-32.23,0.41,Large,Time & Material,North America
+221,184,-35.13,0.06,Small,Time & Material,Europe
+222,70,-1.95,0.28,Small,Time & Material,North America
+223,-31,-28.34,0.79,Medium,Time & Material,Middle East
+224,122,-17.79,0.78,Medium,Fixed Price,Europe
+225,153,11.16,0.24,Medium,Cost Plus,Asia
+226,49,24.41,0.02,Medium,Cost Plus,Asia
+227,99,27.49,0.52,Small,Cost Plus,Asia
+228,164,13.13,0.7,Small,Time & Material,Asia
+229,69,24.48,0.95,Medium,Time & Material,Europe
+230,-85,39.97,0.54,Medium,Cost Plus,Middle East
+231,43,5.75,0.76,Large,Time & Material,Europe
+232,76,26.55,0.35,Large,Cost Plus,Europe
+233,-74,-47.3,0.64,Medium,Cost Plus,Asia
+234,95,-44.32,0.66,Medium,Time & Material,Europe
+235,49,44.59,0.38,Medium,Fixed Price,Asia
+236,59,-43.06,0.62,Medium,Time & Material,Middle East
+237,-27,-33.76,0.78,Small,Fixed Price,Middle East
+238,130,48.3,0.83,Medium,Cost Plus,North America
+239,129,25.64,0.91,Large,Fixed Price,Europe
+240,-17,-31.23,0.49,Small,Cost Plus,Europe
+241,164,-28.74,0.96,Medium,Fixed Price,Europe
+242,101,5.58,0.65,Small,Fixed Price,Asia
+243,174,-48.79,0.68,Medium,Fixed Price,Asia
+244,4,-30.0,0.22,Medium,Fixed Price,North America
+245,-8,8.28,0.34,Large,Cost Plus,Middle East
+246,65,40.31,0.4,Large,Fixed Price,Asia
+247,-47,0.11,0.13,Small,Cost Plus,Middle East
+248,-42,10.71,0.16,Small,Time & Material,Asia
+249,97,6.45,0.05,Small,Fixed Price,North America
+250,89,44.18,0.2,Medium,Fixed Price,Middle East
+251,102,-4.81,0.53,Small,Fixed Price,Middle East
+252,-88,-47.13,0.77,Large,Fixed Price,Europe
+253,60,-34.47,0.43,Large,Cost Plus,Middle East
+254,186,-44.44,0.3,Small,Time & Material,Middle East
+255,130,-25.12,0.29,Medium,Cost Plus,North America
+256,134,13.09,0.7,Medium,Fixed Price,Europe
+257,67,3.63,0.59,Small,Time & Material,Asia
+258,-39,44.21,0.28,Medium,Time & Material,Europe
+259,-92,-49.74,0.21,Medium,Cost Plus,Europe
+260,0,22.59,0.23,Small,Fixed Price,North America
+261,199,-47.25,0.7,Small,Time & Material,Asia
+262,145,-7.81,0.4,Large,Fixed Price,Asia
+263,98,-14.34,0.49,Small,Time & Material,Asia
+264,75,31.24,0.25,Large,Time & Material,Middle East
+265,-4,47.4,0.88,Large,Time & Material,Asia
+266,73,33.3,0.63,Medium,Time & Material,Middle East
+267,-75,17.8,0.56,Medium,Fixed Price,North America
+268,136,21.63,0.06,Medium,Cost Plus,Asia
+269,165,-0.9,0.79,Medium,Fixed Price,Europe
+270,-11,46.51,0.51,Large,Fixed Price,Asia
+271,199,10.69,0.51,Large,Cost Plus,Asia
+272,-9,12.61,0.5,Small,Time & Material,Europe
+273,-69,48.21,0.69,Large,Fixed Price,Europe
+274,76,-38.83,0.67,Small,Cost Plus,North America
+275,97,-14.01,0.44,Large,Fixed Price,Europe
+276,3,-14.61,0.99,Small,Time & Material,Europe
+277,130,-23.46,0.41,Medium,Time & Material,Middle East
+278,1,-4.36,0.49,Medium,Fixed Price,Europe
+279,69,47.73,0.26,Small,Time & Material,Europe
+280,-80,-48.04,0.83,Large,Time & Material,Asia
+281,-51,-38.31,0.82,Small,Time & Material,Middle East
+282,-18,-5.76,0.99,Large,Cost Plus,Middle East
+283,5,43.84,0.64,Large,Cost Plus,Europe
+284,190,49.5,0.41,Small,Cost Plus,Europe
+285,74,49.93,0.96,Medium,Fixed Price,Middle East
+286,173,-48.27,0.4,Small,Cost Plus,Middle East
+287,189,10.87,0.89,Large,Cost Plus,North America
+288,182,28.78,0.48,Large,Fixed Price,Middle East
+289,-49,-17.3,0.8,Small,Fixed Price,Asia
+290,165,7.02,0.66,Small,Time & Material,Middle East
+291,-30,-14.59,0.83,Medium,Fixed Price,Europe
+292,-31,-13.03,0.83,Small,Time & Material,Middle East
+293,-100,-16.25,0.52,Large,Time & Material,Middle East
+294,113,-45.8,0.7,Medium,Fixed Price,Middle East
+295,-86,-32.34,0.86,Small,Fixed Price,Asia
+296,54,37.15,0.89,Large,Time & Material,Asia
+297,62,0.96,0.99,Small,Fixed Price,Europe
+298,-10,47.25,0.77,Large,Fixed Price,Europe
+299,121,23.75,0.9,Medium,Time & Material,Middle East
+300,77,-31.07,0.28,Medium,Fixed Price,North America
+301,-65,4.82,0.28,Large,Cost Plus,Europe
+302,0,32.39,0.03,Small,Fixed Price,Middle East
+303,-46,2.52,0.76,Large,Fixed Price,Europe
+304,-95,-6.17,0.56,Medium,Time & Material,Europe
+305,183,9.78,0.72,Small,Fixed Price,North America
+306,187,37.84,0.39,Medium,Cost Plus,North America
+307,197,3.26,0.04,Medium,Time & Material,North America
+308,47,-27.54,0.49,Small,Fixed Price,North America
+309,-1,-2.26,0.26,Small,Fixed Price,North America
+310,55,-46.77,0.93,Small,Fixed Price,Middle East
+311,-61,-6.22,0.53,Large,Fixed Price,Asia
+312,13,-21.17,0.51,Medium,Fixed Price,Europe
+313,9,-14.57,0.36,Medium,Time & Material,Europe
+314,97,36.57,0.78,Large,Cost Plus,Middle East
+315,155,-49.43,0.63,Medium,Time & Material,Asia
+316,40,21.53,0.72,Large,Cost Plus,Middle East
+317,173,-35.27,0.84,Medium,Cost Plus,Asia
+318,98,3.94,0.79,Small,Fixed Price,Asia
+319,-91,-14.83,0.52,Small,Cost Plus,Asia
+320,-66,19.71,0.94,Large,Time & Material,Europe
+321,52,-28.3,0.55,Medium,Time & Material,Middle East
+322,81,-41.94,0.75,Small,Cost Plus,Middle East
+323,64,15.64,0.79,Small,Cost Plus,Europe
+324,-5,24.05,0.53,Medium,Fixed Price,Asia
+325,-97,-32.53,0.28,Large,Fixed Price,Europe
+326,163,48.16,0.34,Large,Fixed Price,Asia
+327,58,-19.2,0.23,Small,Cost Plus,Middle East
+328,-49,-11.65,0.31,Medium,Time & Material,Europe
+329,-40,-30.97,0.44,Small,Time & Material,Europe
+330,-70,21.04,0.08,Small,Cost Plus,Asia
+331,68,47.08,0.85,Small,Cost Plus,Middle East
+332,-33,-3.17,0.73,Large,Cost Plus,Europe
+333,26,-38.77,0.09,Medium,Cost Plus,Middle East
+334,23,-38.04,0.59,Small,Time & Material,Middle East
+335,125,-38.48,0.09,Small,Cost Plus,Europe
+336,-17,-38.13,0.32,Medium,Fixed Price,North America
+337,-1,41.58,0.59,Large,Fixed Price,North America
+338,192,-49.49,0.09,Large,Time & Material,North America
+339,-40,3.6,0.04,Large,Time & Material,North America
+340,-36,-13.4,0.8,Medium,Fixed Price,Middle East
+341,-42,-46.06,0.89,Medium,Fixed Price,Middle East
+342,101,15.14,0.26,Small,Time & Material,North America
+343,141,-48.28,0.57,Medium,Fixed Price,Middle East
+344,-70,15.31,0.99,Large,Cost Plus,Middle East
+345,-39,17.25,0.14,Medium,Fixed Price,Middle East
+346,146,-9.32,0.88,Small,Time & Material,Europe
+347,-3,37.42,0.29,Large,Fixed Price,Europe
+348,-28,-26.58,0.32,Small,Fixed Price,North America
+349,-95,-26.1,0.6,Medium,Cost Plus,North America
+350,70,-42.6,0.65,Medium,Time & Material,Asia
+351,155,2.13,0.9,Medium,Fixed Price,Asia
+352,9,-0.41,0.33,Medium,Fixed Price,Asia
+353,-53,-44.42,0.92,Small,Fixed Price,Europe
+354,-50,-30.14,0.48,Large,Time & Material,Europe
+355,159,18.19,0.34,Small,Fixed Price,Europe
+356,130,-11.1,0.6,Medium,Cost Plus,North America
+357,-81,12.05,0.49,Medium,Cost Plus,North America
+358,143,22.62,0.31,Medium,Time & Material,Europe
+359,11,-37.54,0.2,Medium,Fixed Price,North America
+360,114,-4.15,0.08,Medium,Cost Plus,Middle East
+361,47,35.5,0.26,Small,Cost Plus,Middle East
+362,-88,-37.98,0.7,Large,Time & Material,Europe
+363,-77,8.56,1.0,Large,Time & Material,North America
+364,139,17.32,0.35,Small,Cost Plus,Middle East
+365,-85,26.67,0.33,Large,Fixed Price,Middle East
+366,-45,10.34,0.95,Large,Cost Plus,Asia
+367,-20,-9.71,0.33,Small,Cost Plus,Asia
+368,73,49.34,0.31,Large,Fixed Price,Middle East
+369,128,-4.6,0.02,Medium,Fixed Price,Europe
+370,-2,-11.08,0.07,Small,Fixed Price,Asia
+371,112,40.32,0.91,Small,Time & Material,Europe
+372,-65,-2.84,0.19,Large,Fixed Price,Middle East
+373,54,19.99,0.15,Large,Cost Plus,Middle East
+374,79,-9.63,0.96,Small,Cost Plus,Europe
+375,113,-33.15,0.24,Small,Fixed Price,Asia
+376,30,-35.32,0.35,Medium,Cost Plus,Europe
+377,77,49.28,0.33,Small,Time & Material,Middle East
+378,65,-27.21,0.23,Large,Time & Material,Europe
+379,106,49.38,0.06,Small,Cost Plus,Asia
+380,-53,42.89,0.89,Small,Cost Plus,North America
+381,148,-1.63,0.2,Small,Fixed Price,Europe
+382,144,15.6,0.27,Large,Cost Plus,Europe
+383,115,31.17,0.76,Small,Time & Material,Asia
+384,185,25.45,0.7,Medium,Fixed Price,Asia
+385,45,-20.99,0.43,Small,Time & Material,Middle East
+386,-12,-23.66,0.33,Small,Time & Material,Europe
+387,-91,-25.65,0.78,Large,Time & Material,Asia
+388,185,-49.33,0.45,Medium,Fixed Price,North America
+389,199,-11.02,0.05,Large,Cost Plus,Middle East
+390,14,32.87,0.22,Small,Time & Material,Europe
+391,-71,-30.42,0.95,Medium,Cost Plus,North America
+392,-50,44.59,0.14,Medium,Cost Plus,North America
+393,84,-44.52,0.74,Medium,Time & Material,Asia
+394,98,-42.18,0.64,Large,Cost Plus,Asia
+395,12,23.74,0.7,Medium,Fixed Price,Asia
+396,53,-39.66,0.82,Medium,Time & Material,Middle East
+397,-64,-41.22,0.9,Small,Cost Plus,North America
+398,54,39.93,0.95,Small,Cost Plus,Europe
+399,6,8.21,0.05,Medium,Fixed Price,Middle East
+400,25,-24.05,0.1,Large,Fixed Price,Asia
+401,-85,9.79,0.91,Medium,Time & Material,Europe
+402,-90,-44.72,0.62,Small,Fixed Price,North America
+403,195,-45.93,0.5,Large,Time & Material,North America
+404,-29,0.94,0.86,Small,Time & Material,Middle East
+405,71,14.9,0.98,Large,Fixed Price,Middle East
+406,121,36.02,0.31,Small,Fixed Price,Middle East
+407,-51,21.79,0.29,Small,Cost Plus,Asia
+408,5,3.68,0.92,Small,Cost Plus,Europe
+409,26,37.87,0.02,Large,Time & Material,Asia
+410,30,37.5,0.83,Medium,Time & Material,Asia
+411,180,-31.96,0.43,Medium,Cost Plus,Europe
+412,175,14.02,0.25,Large,Fixed Price,Europe
+413,-39,-41.7,0.42,Small,Fixed Price,North America
+414,197,6.74,0.01,Large,Cost Plus,North America
+415,142,49.94,1.0,Large,Time & Material,North America
+416,144,29.74,0.55,Small,Fixed Price,Asia
+417,-35,20.08,0.43,Small,Time & Material,Europe
+418,-61,31.73,0.02,Small,Cost Plus,North America
+419,67,-23.55,0.17,Small,Cost Plus,Asia
+420,34,-21.51,0.62,Medium,Cost Plus,Europe
+421,-82,-36.97,0.38,Large,Fixed Price,Middle East
+422,129,-44.88,0.62,Large,Cost Plus,Middle East
+423,-8,-23.95,0.18,Large,Cost Plus,North America
+424,83,35.81,0.06,Small,Fixed Price,Asia
+425,65,-21.29,0.53,Medium,Fixed Price,Asia
+426,135,-44.64,0.38,Large,Fixed Price,North America
+427,-7,21.91,0.87,Small,Time & Material,Asia
+428,162,-29.53,0.44,Small,Cost Plus,Europe
+429,81,-14.7,0.29,Large,Fixed Price,North America
+430,133,35.22,0.66,Medium,Cost Plus,North America
+431,131,-7.31,0.53,Medium,Time & Material,Europe
+432,-37,1.11,0.14,Medium,Time & Material,Middle East
+433,-80,38.85,0.12,Medium,Cost Plus,Asia
+434,174,-23.84,0.99,Medium,Cost Plus,North America
+435,124,23.31,0.14,Medium,Time & Material,Asia
+436,73,0.2,0.61,Medium,Cost Plus,Middle East
+437,-32,-1.42,0.82,Large,Time & Material,Europe
+438,120,34.05,0.03,Medium,Time & Material,North America
+439,91,18.78,0.54,Medium,Cost Plus,North America
+440,3,-24.06,0.53,Medium,Cost Plus,North America
+441,-51,10.82,0.81,Large,Fixed Price,Asia
+442,97,48.26,0.27,Large,Time & Material,North America
+443,36,22.88,0.14,Small,Cost Plus,North America
+444,61,17.85,0.8,Small,Cost Plus,Europe
+445,-85,-34.02,0.14,Small,Cost Plus,Asia
+446,-59,46.36,0.64,Medium,Time & Material,Europe
+447,33,32.69,0.83,Small,Cost Plus,Middle East
+448,28,-42.94,0.08,Small,Fixed Price,Europe
+449,8,35.54,0.77,Medium,Cost Plus,Europe
+450,80,-12.88,0.8,Medium,Time & Material,Middle East
+451,154,32.1,0.92,Medium,Fixed Price,Europe
+452,-79,27.89,0.26,Small,Fixed Price,Asia
+453,163,-13.29,0.33,Large,Fixed Price,Asia
+454,164,-24.13,0.88,Large,Fixed Price,North America
+455,118,-9.5,0.74,Large,Cost Plus,Asia
+456,33,36.85,0.1,Large,Time & Material,Middle East
+457,-31,22.33,0.41,Small,Fixed Price,North America
+458,114,26.91,0.25,Medium,Time & Material,Europe
+459,-15,32.21,0.11,Small,Cost Plus,Europe
+460,-14,25.72,0.61,Medium,Time & Material,Asia
+461,-56,-11.41,0.1,Large,Fixed Price,Europe
+462,113,-0.12,0.26,Large,Cost Plus,Asia
+463,-96,-38.4,0.9,Small,Cost Plus,Middle East
+464,-90,-5.11,0.8,Large,Cost Plus,Asia
+465,-7,8.66,0.43,Small,Cost Plus,Europe
+466,-80,-32.18,0.67,Small,Time & Material,North America
+467,179,-37.21,0.14,Small,Cost Plus,Europe
+468,46,-31.81,0.16,Small,Time & Material,Middle East
+469,88,27.12,0.57,Small,Fixed Price,Asia
+470,-70,-26.99,0.84,Small,Time & Material,Middle East
+471,-61,12.16,0.99,Medium,Fixed Price,Middle East
+472,39,-46.23,0.73,Small,Fixed Price,North America
+473,153,14.44,0.99,Small,Fixed Price,North America
+474,82,-48.94,0.5,Large,Time & Material,North America
+475,-25,30.34,0.36,Small,Time & Material,North America
+476,170,-47.52,0.82,Medium,Time & Material,North America
+477,-99,-6.2,0.81,Medium,Time & Material,Asia
+478,-93,42.98,0.09,Large,Cost Plus,North America
+479,185,21.07,0.1,Medium,Time & Material,North America
+480,-44,40.3,0.92,Small,Cost Plus,Asia
+481,32,-21.19,0.81,Medium,Fixed Price,Middle East
+482,-91,38.67,0.31,Small,Time & Material,Asia
+483,-23,-31.73,0.69,Small,Time & Material,Asia
+484,-85,22.66,0.8,Large,Cost Plus,Europe
+485,61,32.0,0.9,Medium,Time & Material,North America
+486,-50,-33.49,0.29,Large,Cost Plus,North America
+487,-61,44.17,0.99,Medium,Cost Plus,Asia
+488,-93,4.5,0.13,Medium,Time & Material,Middle East
+489,71,-25.89,0.72,Large,Time & Material,North America
+490,35,45.62,0.7,Medium,Cost Plus,North America
+491,-57,35.8,0.11,Medium,Fixed Price,Europe
+492,161,-37.34,0.76,Small,Cost Plus,Middle East
+493,-13,-38.92,0.91,Medium,Fixed Price,Middle East
+494,82,33.92,0.28,Medium,Fixed Price,North America
+495,109,-8.79,0.91,Large,Cost Plus,Europe
+496,131,-17.33,0.94,Small,Fixed Price,Middle East
+497,-93,37.11,0.68,Medium,Time & Material,Asia
+498,-29,29.15,0.25,Medium,Time & Material,Europe
+499,161,-40.4,0.64,Small,Cost Plus,North America
+500,-85,48.98,0.84,Medium,Time & Material,Middle East
+501,136,46.84,0.86,Small,Time & Material,North America
+502,9,-24.22,0.41,Medium,Cost Plus,North America
+503,196,-15.09,0.0,Large,Time & Material,Asia
+504,-34,9.59,0.27,Small,Cost Plus,Middle East
+505,85,45.95,0.51,Medium,Cost Plus,Asia
+506,-30,-4.86,0.03,Medium,Time & Material,North America
+507,-48,-1.36,0.79,Medium,Time & Material,Middle East
+508,132,10.14,0.4,Medium,Cost Plus,Asia
+509,41,14.57,0.24,Small,Fixed Price,Europe
+510,23,-44.21,0.18,Small,Cost Plus,Middle East
+511,91,-23.53,0.9,Small,Fixed Price,Europe
+512,89,24.1,0.41,Medium,Cost Plus,Europe
+513,7,35.53,0.33,Small,Time & Material,Europe
+514,10,-26.28,0.33,Medium,Fixed Price,Europe
+515,102,14.11,0.49,Small,Cost Plus,Middle East
+516,162,-0.26,0.97,Large,Time & Material,Asia
+517,167,39.85,0.22,Large,Cost Plus,Asia
+518,-27,9.49,0.9,Small,Cost Plus,Asia
+519,2,-47.39,0.66,Medium,Cost Plus,North America
+520,-100,22.89,0.09,Small,Fixed Price,North America
+521,66,-47.25,0.52,Small,Fixed Price,Europe
+522,189,-45.76,0.47,Small,Fixed Price,North America
+523,121,-22.87,0.63,Medium,Fixed Price,Europe
+524,18,-41.36,0.44,Large,Fixed Price,Asia
+525,117,37.68,0.44,Medium,Fixed Price,Middle East
+526,86,-23.52,0.41,Medium,Fixed Price,Asia
+527,183,-25.67,0.75,Small,Time & Material,North America
+528,149,-36.85,0.32,Small,Cost Plus,Europe
+529,80,-4.19,0.52,Large,Time & Material,Middle East
+530,-21,14.29,0.84,Medium,Cost Plus,Asia
+531,100,35.4,0.6,Small,Fixed Price,Asia
+532,37,-42.94,0.82,Small,Cost Plus,Europe
+533,119,-41.26,0.98,Small,Time & Material,Europe
+534,191,-46.06,0.38,Small,Fixed Price,Asia
+535,-79,43.44,0.53,Small,Fixed Price,Middle East
+536,-12,-19.69,0.71,Large,Time & Material,Asia
+537,146,-40.93,0.89,Medium,Cost Plus,Middle East
+538,17,18.0,0.02,Small,Cost Plus,North America
+539,73,-14.2,0.39,Small,Cost Plus,Middle East
+540,-99,-18.06,0.1,Large,Fixed Price,North America
+541,143,-30.08,0.28,Small,Time & Material,Europe
+542,-66,25.6,0.33,Medium,Time & Material,North America
+543,173,-35.71,0.4,Medium,Time & Material,Asia
+544,-46,20.44,0.03,Medium,Time & Material,Middle East
+545,120,34.33,0.36,Large,Time & Material,Europe
+546,10,-3.74,0.21,Medium,Cost Plus,Asia
+547,76,22.69,0.99,Small,Time & Material,Middle East
+548,-56,-21.03,0.1,Small,Fixed Price,Europe
+549,172,29.45,0.22,Large,Cost Plus,Asia
+550,122,-20.64,0.83,Large,Cost Plus,North America
+551,-21,9.54,0.15,Large,Fixed Price,Middle East
+552,-100,-29.62,0.84,Medium,Time & Material,Middle East
+553,141,28.5,0.24,Large,Fixed Price,North America
+554,148,-14.04,0.23,Medium,Fixed Price,Asia
+555,157,40.18,0.18,Medium,Cost Plus,North America
+556,156,26.51,0.73,Medium,Time & Material,Europe
+557,70,-45.33,0.99,Large,Cost Plus,North America
+558,-81,47.54,0.36,Small,Cost Plus,North America
+559,20,-2.36,0.25,Large,Fixed Price,Europe
+560,-86,36.39,0.67,Medium,Fixed Price,North America
+561,119,-24.78,0.45,Large,Cost Plus,Europe
+562,4,10.01,0.79,Medium,Fixed Price,North America
+563,101,-0.53,0.35,Medium,Fixed Price,Asia
+564,129,5.73,0.38,Small,Time & Material,Asia
+565,112,25.33,0.31,Large,Cost Plus,Europe
+566,83,13.68,0.81,Small,Cost Plus,Asia
+567,-46,-23.37,0.4,Large,Fixed Price,Asia
+568,196,-38.2,0.65,Small,Time & Material,North America
+569,-10,28.45,0.82,Medium,Cost Plus,Asia
+570,59,18.92,0.66,Large,Fixed Price,Middle East
+571,-28,36.33,0.21,Small,Time & Material,Middle East
+572,-12,3.37,0.57,Large,Cost Plus,Asia
+573,-10,2.85,0.13,Small,Fixed Price,Europe
+574,32,-37.59,0.61,Small,Time & Material,North America
+575,-48,37.83,0.82,Large,Cost Plus,Middle East
+576,-88,-18.68,0.6,Medium,Fixed Price,Middle East
+577,76,21.27,0.2,Small,Cost Plus,Europe
+578,42,25.18,0.97,Large,Time & Material,Europe
+579,175,-34.95,0.17,Large,Time & Material,Middle East
+580,25,-21.01,0.77,Large,Cost Plus,Europe
+581,102,5.53,0.3,Medium,Cost Plus,Middle East
+582,-51,11.95,0.1,Small,Fixed Price,Middle East
+583,143,0.64,0.97,Medium,Fixed Price,North America
+584,-10,9.93,0.57,Small,Time & Material,Middle East
+585,39,2.57,0.8,Small,Time & Material,Asia
+586,63,-7.2,0.68,Medium,Time & Material,Middle East
+587,-89,7.28,0.75,Medium,Cost Plus,Middle East
+588,-13,-39.91,0.52,Small,Time & Material,Asia
+589,-14,-35.66,0.58,Medium,Time & Material,North America
+590,95,6.65,0.45,Medium,Cost Plus,Asia
+591,-80,-17.98,0.93,Small,Fixed Price,Europe
+592,193,-24.4,0.11,Large,Cost Plus,Middle East
+593,50,47.3,0.61,Large,Cost Plus,North America
+594,166,-33.37,0.46,Medium,Fixed Price,North America
+595,22,45.3,0.35,Large,Fixed Price,Middle East
+596,108,-4.96,0.62,Small,Time & Material,Europe
+597,-13,-8.76,0.82,Medium,Cost Plus,North America
+598,28,-28.03,0.0,Medium,Cost Plus,Europe
+599,22,13.76,0.66,Medium,Cost Plus,North America
+600,61,-42.38,0.54,Small,Fixed Price,Asia
+601,63,21.11,0.78,Large,Cost Plus,Asia
+602,78,-3.14,0.44,Small,Time & Material,Asia
+603,21,27.09,0.66,Small,Cost Plus,Middle East
+604,101,38.12,0.51,Medium,Time & Material,Middle East
+605,80,29.94,0.11,Large,Cost Plus,North America
+606,28,-17.17,0.74,Small,Fixed Price,Middle East
+607,-64,-40.34,0.94,Small,Cost Plus,Asia
+608,121,-33.37,0.47,Large,Cost Plus,Middle East
+609,-92,6.34,0.99,Large,Time & Material,Asia
+610,-89,-2.38,0.08,Medium,Time & Material,Europe
+611,82,26.24,0.22,Medium,Fixed Price,Asia
+612,-51,-3.94,0.64,Large,Fixed Price,Asia
+613,-66,-41.79,0.33,Medium,Time & Material,Europe
+614,-53,44.05,0.29,Small,Fixed Price,Europe
+615,56,8.53,0.98,Medium,Cost Plus,North America
+616,17,46.71,0.07,Large,Cost Plus,North America
+617,0,24.65,0.53,Small,Cost Plus,Asia
+618,-89,19.21,0.29,Medium,Fixed Price,Middle East
+619,-59,16.42,0.13,Medium,Fixed Price,Europe
+620,27,-41.69,0.9,Small,Fixed Price,Middle East
+621,117,-0.02,0.41,Medium,Fixed Price,North America
+622,15,-46.66,0.49,Medium,Time & Material,Europe
+623,3,41.77,0.46,Medium,Time & Material,Europe
+624,-62,-24.36,0.04,Small,Cost Plus,Asia
+625,-73,-43.24,0.44,Large,Cost Plus,Middle East
+626,179,-49.26,0.73,Small,Cost Plus,North America
+627,153,32.93,0.23,Small,Fixed Price,Asia
+628,180,28.77,0.95,Large,Time & Material,Europe
+629,144,-17.95,0.03,Large,Cost Plus,Europe
+630,-9,29.87,0.44,Small,Time & Material,Asia
+631,6,-27.06,0.51,Medium,Cost Plus,North America
+632,-42,30.85,0.06,Medium,Time & Material,North America
+633,74,-23.04,0.16,Small,Time & Material,Asia
+634,34,-46.74,0.23,Medium,Cost Plus,North America
+635,-61,47.06,0.64,Large,Fixed Price,Europe
+636,-90,2.5,0.07,Small,Time & Material,Europe
+637,85,-35.68,0.18,Large,Cost Plus,Asia
+638,97,22.63,0.83,Large,Cost Plus,Europe
+639,46,29.43,0.81,Small,Time & Material,North America
+640,80,-4.58,0.46,Large,Fixed Price,Middle East
+641,13,2.78,0.28,Large,Cost Plus,Europe
+642,94,43.01,0.13,Small,Fixed Price,Europe
+643,13,31.47,0.61,Large,Fixed Price,Middle East
+644,141,33.7,0.57,Large,Cost Plus,Europe
+645,144,27.78,0.84,Large,Time & Material,Europe
+646,106,-14.57,0.35,Large,Cost Plus,Europe
+647,88,-1.1,0.86,Large,Cost Plus,Middle East
+648,179,-6.57,0.68,Large,Fixed Price,North America
+649,197,21.79,0.46,Small,Cost Plus,North America
+650,94,-31.02,0.83,Small,Time & Material,Asia
+651,-69,21.07,0.21,Small,Fixed Price,North America
+652,-1,22.22,0.46,Medium,Cost Plus,Asia
+653,-42,44.12,0.86,Medium,Cost Plus,Europe
+654,-30,-41.15,0.52,Large,Time & Material,Asia
+655,34,-36.56,0.35,Small,Time & Material,Asia
+656,148,-17.84,0.4,Large,Time & Material,Asia
+657,85,39.0,0.59,Large,Time & Material,Asia
+658,180,-46.33,0.24,Small,Cost Plus,Europe
+659,-52,0.54,0.85,Large,Time & Material,Asia
+660,-44,-9.46,0.69,Medium,Time & Material,North America
+661,177,-27.8,0.46,Medium,Time & Material,North America
+662,25,-44.97,0.95,Small,Cost Plus,Asia
+663,34,44.54,0.22,Medium,Fixed Price,Europe
+664,183,4.33,0.93,Medium,Cost Plus,Europe
+665,167,-26.25,0.49,Small,Cost Plus,Middle East
+666,20,-7.13,0.66,Small,Cost Plus,Middle East
+667,192,0.03,0.01,Large,Fixed Price,Asia
+668,121,34.08,0.63,Large,Fixed Price,North America
+669,-23,-35.34,0.18,Small,Time & Material,Asia
+670,44,-32.51,0.08,Small,Fixed Price,Europe
+671,24,-34.32,0.08,Large,Time & Material,North America
+672,167,-3.2,0.18,Large,Time & Material,Middle East
+673,-13,35.58,0.77,Medium,Time & Material,Europe
+674,54,37.95,0.32,Large,Fixed Price,Asia
+675,54,-35.27,0.68,Medium,Fixed Price,Asia
+676,97,18.58,0.48,Small,Fixed Price,Europe
+677,184,-36.25,0.86,Small,Cost Plus,Europe
+678,112,-37.33,0.63,Large,Time & Material,Asia
+679,26,-32.58,0.28,Large,Time & Material,North America
+680,8,22.07,0.09,Large,Cost Plus,Asia
+681,-45,0.19,0.18,Large,Fixed Price,Asia
+682,149,-46.67,0.11,Medium,Fixed Price,Europe
+683,155,-14.3,0.33,Large,Fixed Price,Europe
+684,1,12.91,0.81,Small,Time & Material,North America
+685,-87,5.24,0.49,Small,Time & Material,Asia
+686,-82,29.66,0.2,Medium,Cost Plus,North America
+687,141,-34.73,0.78,Medium,Cost Plus,Asia
+688,188,-41.12,0.93,Large,Time & Material,Europe
+689,70,-49.92,0.14,Medium,Fixed Price,Asia
+690,127,-5.49,0.37,Large,Time & Material,North America
+691,74,-46.77,0.67,Small,Cost Plus,Middle East
+692,9,30.49,0.91,Medium,Cost Plus,North America
+693,31,18.75,0.56,Large,Cost Plus,Europe
+694,56,-23.27,0.46,Medium,Time & Material,North America
+695,-98,12.72,0.8,Medium,Time & Material,North America
+696,40,3.34,0.47,Small,Time & Material,Europe
+697,58,5.09,0.24,Medium,Cost Plus,North America
+698,2,-8.15,0.26,Small,Fixed Price,Middle East
+699,-61,-49.82,0.84,Medium,Fixed Price,North America
+700,94,-9.77,0.15,Medium,Cost Plus,Europe
+701,149,-46.29,0.32,Medium,Fixed Price,Middle East
+702,5,-2.95,0.38,Large,Time & Material,Europe
+703,168,-8.61,0.56,Medium,Time & Material,Asia
+704,91,17.18,0.71,Medium,Time & Material,Asia
+705,108,-8.5,0.71,Medium,Cost Plus,Middle East
+706,-3,-28.99,0.42,Small,Time & Material,North America
+707,95,14.32,0.16,Small,Cost Plus,North America
+708,-40,39.12,0.35,Large,Fixed Price,Asia
+709,153,48.1,0.32,Large,Fixed Price,Europe
+710,164,-16.71,0.5,Small,Time & Material,Europe
+711,151,7.92,0.79,Large,Cost Plus,Asia
+712,115,-33.86,0.45,Large,Fixed Price,Europe
+713,155,-5.65,0.92,Medium,Fixed Price,Europe
+714,55,-33.77,0.22,Small,Time & Material,Europe
+715,190,-47.49,0.43,Large,Time & Material,Europe
+716,124,-45.72,1.0,Small,Fixed Price,Middle East
+717,141,-25.56,0.92,Medium,Time & Material,North America
+718,57,32.61,0.62,Medium,Fixed Price,Europe
+719,-93,31.83,0.7,Large,Fixed Price,Europe
+720,35,-36.85,0.71,Small,Fixed Price,Middle East
+721,-73,-23.42,0.54,Small,Time & Material,Asia
+722,-32,-37.89,0.54,Large,Fixed Price,Middle East
+723,34,23.17,0.1,Small,Cost Plus,Asia
+724,35,-20.41,0.92,Large,Time & Material,Asia
+725,21,-16.8,0.43,Large,Fixed Price,Europe
+726,177,-6.73,0.9,Large,Time & Material,Middle East
+727,135,-45.13,0.81,Small,Time & Material,North America
+728,103,10.19,0.44,Medium,Fixed Price,Asia
+729,55,-4.45,0.79,Small,Time & Material,Asia
+730,95,48.44,0.37,Medium,Cost Plus,Asia
+731,110,6.02,0.48,Medium,Cost Plus,North America
+732,11,42.84,0.61,Medium,Cost Plus,Europe
+733,166,31.9,0.79,Small,Fixed Price,North America
+734,-87,2.08,0.53,Small,Time & Material,Europe
+735,84,-17.37,0.04,Large,Cost Plus,Middle East
+736,89,7.49,0.09,Medium,Cost Plus,Middle East
+737,36,-43.45,0.87,Medium,Time & Material,Asia
+738,-34,-28.45,0.93,Large,Fixed Price,Middle East
+739,87,37.7,0.6,Small,Cost Plus,Asia
+740,-17,30.99,0.68,Medium,Fixed Price,Europe
+741,176,17.92,0.63,Small,Cost Plus,North America
+742,110,-46.38,0.28,Medium,Time & Material,North America
+743,46,-1.84,0.31,Large,Cost Plus,Europe
+744,197,-42.34,0.85,Medium,Time & Material,Europe
+745,50,-3.01,0.77,Small,Fixed Price,Europe
+746,-33,42.34,0.94,Medium,Cost Plus,Asia
+747,147,46.73,0.22,Small,Cost Plus,Asia
+748,131,7.77,0.78,Small,Fixed Price,North America
+749,6,-17.2,0.96,Small,Cost Plus,Asia
+750,-28,-16.39,0.71,Large,Fixed Price,Middle East
+751,64,40.75,0.29,Small,Fixed Price,Europe
+752,-81,-20.85,0.52,Large,Time & Material,Middle East
+753,-41,-32.83,0.13,Medium,Fixed Price,Middle East
+754,155,-49.34,0.25,Medium,Fixed Price,Europe
+755,21,0.47,0.09,Small,Fixed Price,Europe
+756,151,49.9,0.35,Small,Fixed Price,Asia
+757,94,36.86,0.75,Small,Time & Material,Middle East
+758,-11,-33.95,0.89,Small,Fixed Price,North America
+759,120,-33.81,0.08,Small,Cost Plus,Asia
+760,187,-38.38,0.3,Medium,Time & Material,Asia
+761,195,35.29,0.73,Medium,Cost Plus,North America
+762,186,49.24,0.74,Medium,Cost Plus,Asia
+763,186,3.31,0.61,Small,Cost Plus,North America
+764,99,-0.26,0.91,Small,Fixed Price,North America
+765,53,8.99,0.02,Small,Fixed Price,Asia
+766,198,15.72,0.98,Medium,Cost Plus,Middle East
+767,46,43.9,0.14,Medium,Cost Plus,Middle East
+768,-4,24.35,0.46,Medium,Fixed Price,Europe
+769,120,-12.91,0.23,Small,Time & Material,Asia
+770,169,-4.9,0.59,Large,Cost Plus,North America
+771,160,23.03,0.45,Small,Cost Plus,Middle East
+772,61,-10.92,0.82,Medium,Time & Material,North America
+773,-74,5.17,0.61,Medium,Cost Plus,Europe
+774,68,-3.98,0.04,Small,Cost Plus,North America
+775,16,40.97,0.56,Medium,Cost Plus,Middle East
+776,-12,-44.95,0.05,Large,Cost Plus,Asia
+777,-35,8.58,0.32,Medium,Time & Material,Europe
+778,145,41.12,0.36,Small,Time & Material,North America
+779,181,20.53,0.26,Medium,Fixed Price,Europe
+780,-90,43.06,0.06,Small,Fixed Price,Middle East
+781,-98,39.16,0.94,Medium,Time & Material,North America
+782,69,32.56,0.01,Small,Fixed Price,North America
+783,103,41.41,0.73,Medium,Time & Material,Europe
+784,-51,42.3,0.4,Medium,Fixed Price,Middle East
+785,169,29.26,0.53,Medium,Fixed Price,Europe
+786,58,-17.07,0.66,Medium,Time & Material,Europe
+787,116,46.37,0.99,Large,Time & Material,Asia
+788,152,-3.52,0.59,Small,Cost Plus,North America
+789,-72,3.63,0.92,Small,Cost Plus,Asia
+790,31,27.15,0.36,Small,Time & Material,North America
+791,-34,13.16,0.64,Small,Cost Plus,Europe
+792,62,26.82,0.19,Small,Cost Plus,Middle East
+793,180,-15.18,0.38,Medium,Fixed Price,Asia
+794,-69,0.14,0.16,Medium,Cost Plus,North America
+795,66,-14.51,0.74,Medium,Cost Plus,North America
+796,-25,-45.99,0.77,Large,Fixed Price,Asia
+797,-64,-32.42,0.21,Large,Fixed Price,North America
+798,154,-27.95,0.13,Small,Fixed Price,North America
+799,8,-17.09,0.57,Large,Time & Material,Europe
+800,-38,33.37,0.08,Small,Time & Material,Middle East
+801,158,-4.22,0.81,Medium,Fixed Price,Middle East
+802,114,-7.85,0.31,Large,Cost Plus,Asia
+803,185,1.06,0.48,Small,Time & Material,Middle East
+804,-50,-13.28,0.66,Medium,Cost Plus,Asia
+805,124,-19.49,0.82,Large,Cost Plus,Middle East
+806,85,40.03,0.81,Medium,Fixed Price,Europe
+807,87,34.3,0.67,Large,Cost Plus,Europe
+808,8,47.92,0.4,Large,Cost Plus,Asia
+809,115,20.66,0.57,Large,Time & Material,North America
+810,79,-5.8,0.63,Large,Cost Plus,North America
+811,13,10.57,0.5,Medium,Time & Material,Middle East
+812,-56,-20.38,0.89,Large,Fixed Price,North America
+813,99,-19.79,0.53,Small,Time & Material,Europe
+814,-70,-5.22,0.39,Small,Fixed Price,Middle East
+815,66,39.28,0.5,Medium,Cost Plus,Asia
+816,124,-8.87,0.75,Medium,Time & Material,Middle East
+817,24,-39.63,0.45,Small,Fixed Price,Middle East
+818,54,-48.76,0.57,Large,Fixed Price,Middle East
+819,11,-19.7,0.92,Large,Cost Plus,North America
+820,130,-24.15,0.45,Small,Cost Plus,Middle East
+821,-88,-22.23,0.84,Small,Fixed Price,Middle East
+822,-28,-41.73,0.01,Small,Cost Plus,Asia
+823,-28,13.69,0.15,Large,Cost Plus,Asia
+824,156,15.23,0.38,Large,Cost Plus,Middle East
+825,-58,-37.37,0.42,Small,Fixed Price,Europe
+826,142,-22.24,0.29,Large,Fixed Price,Europe
+827,80,18.99,0.12,Small,Fixed Price,North America
+828,44,17.62,0.86,Medium,Time & Material,North America
+829,75,-37.2,0.59,Medium,Fixed Price,Middle East
+830,132,-7.81,0.33,Large,Time & Material,North America
+831,-57,3.44,0.86,Large,Cost Plus,Europe
+832,197,37.6,0.77,Medium,Time & Material,North America
+833,177,-2.53,0.96,Large,Fixed Price,North America
+834,187,19.83,0.11,Large,Cost Plus,Europe
+835,56,41.74,1.0,Large,Cost Plus,Middle East
+836,17,-31.35,0.69,Large,Time & Material,Middle East
+837,-65,-23.31,0.21,Large,Fixed Price,Middle East
+838,-87,6.96,0.26,Small,Fixed Price,North America
+839,-97,-17.68,0.5,Small,Fixed Price,Middle East
+840,72,-46.02,0.91,Small,Time & Material,Asia
+841,117,-47.76,0.98,Large,Fixed Price,Asia
+842,138,6.06,0.58,Medium,Time & Material,Middle East
+843,189,-45.92,0.58,Small,Cost Plus,Europe
+844,26,31.72,0.16,Small,Fixed Price,Middle East
+845,-62,48.89,1.0,Small,Fixed Price,Asia
+846,-97,17.56,0.76,Small,Time & Material,Middle East
+847,127,-5.06,0.21,Medium,Fixed Price,Europe
+848,111,-18.3,0.01,Small,Fixed Price,Middle East
+849,130,-5.99,0.3,Large,Cost Plus,North America
+850,8,-27.17,0.62,Small,Cost Plus,North America
+851,79,-14.5,0.38,Large,Time & Material,Europe
+852,124,-33.86,0.94,Small,Cost Plus,Asia
+853,110,24.96,0.6,Small,Fixed Price,North America
+854,106,17.77,0.15,Small,Fixed Price,Asia
+855,64,-2.91,0.09,Small,Time & Material,Asia
+856,125,9.24,0.21,Small,Time & Material,Asia
+857,86,-47.63,0.71,Medium,Cost Plus,Middle East
+858,-69,-8.68,0.91,Small,Cost Plus,Middle East
+859,-39,9.67,0.87,Small,Cost Plus,North America
+860,105,-37.72,0.22,Large,Fixed Price,Middle East
+861,96,-44.32,0.01,Small,Cost Plus,Europe
+862,17,-41.68,0.09,Large,Cost Plus,North America
+863,169,-24.24,0.11,Large,Time & Material,Asia
+864,58,32.7,0.48,Small,Time & Material,North America
+865,-65,-16.31,0.81,Medium,Cost Plus,Europe
+866,156,-29.04,0.34,Small,Fixed Price,Europe
+867,34,5.72,0.87,Large,Cost Plus,North America
+868,122,21.77,0.37,Small,Cost Plus,Europe
+869,-97,1.6,0.11,Medium,Fixed Price,Middle East
+870,-33,44.77,0.35,Medium,Fixed Price,Middle East
+871,-96,39.71,0.57,Large,Cost Plus,Middle East
+872,73,-22.78,0.74,Medium,Cost Plus,Asia
+873,163,-13.33,0.83,Small,Cost Plus,Middle East
+874,-43,-12.34,0.88,Small,Time & Material,Middle East
+875,23,14.3,0.88,Large,Cost Plus,Middle East
+876,159,-26.7,0.08,Small,Time & Material,Europe
+877,-7,-27.17,0.19,Large,Fixed Price,Asia
+878,-77,44.06,0.99,Small,Fixed Price,Europe
+879,84,-42.76,0.36,Medium,Cost Plus,Middle East
+880,68,48.84,0.87,Large,Cost Plus,Middle East
+881,-13,-5.78,0.78,Medium,Fixed Price,North America
+882,7,27.25,0.12,Large,Cost Plus,Europe
+883,106,6.15,0.32,Medium,Time & Material,Middle East
+884,42,-34.92,0.57,Large,Time & Material,North America
+885,65,-3.0,0.13,Large,Fixed Price,Middle East
+886,29,-16.55,0.19,Medium,Cost Plus,Middle East
+887,-89,-49.79,0.57,Large,Cost Plus,Middle East
+888,167,9.16,0.49,Large,Cost Plus,Middle East
+889,25,-4.05,0.55,Medium,Cost Plus,Europe
+890,101,-12.63,0.58,Large,Time & Material,Asia
+891,35,-32.12,0.9,Large,Cost Plus,Europe
+892,149,2.31,0.86,Medium,Time & Material,Asia
+893,-3,7.11,0.49,Medium,Time & Material,North America
+894,85,21.12,0.15,Large,Time & Material,Middle East
+895,101,-37.23,0.26,Medium,Time & Material,Middle East
+896,-95,-6.53,0.95,Small,Fixed Price,Europe
+897,59,-24.66,0.28,Small,Time & Material,North America
+898,99,-1.64,0.09,Large,Time & Material,Asia
+899,-100,17.72,0.26,Small,Cost Plus,North America
+900,57,-2.25,0.44,Medium,Time & Material,Middle East
+901,-73,13.52,0.01,Large,Time & Material,Middle East
+902,66,-24.41,0.91,Small,Cost Plus,Europe
+903,115,-23.14,0.09,Large,Fixed Price,Middle East
+904,-45,-41.96,0.24,Medium,Fixed Price,North America
+905,12,33.5,0.74,Large,Fixed Price,Asia
+906,85,8.06,0.0,Medium,Fixed Price,North America
+907,2,-44.58,0.09,Large,Time & Material,Europe
+908,63,-22.35,0.65,Large,Time & Material,Middle East
+909,96,19.58,0.53,Small,Time & Material,North America
+910,24,-36.63,0.58,Small,Cost Plus,North America
+911,-66,-43.55,0.84,Medium,Cost Plus,Europe
+912,-2,41.52,0.36,Medium,Fixed Price,North America
+913,-75,21.43,0.82,Small,Fixed Price,Europe
+914,-6,28.01,0.86,Medium,Fixed Price,Asia
+915,-71,-36.05,0.23,Small,Fixed Price,Europe
+916,9,3.01,0.22,Small,Fixed Price,North America
+917,-75,44.86,0.78,Large,Cost Plus,North America
+918,25,19.1,0.0,Small,Cost Plus,Asia
+919,-100,-22.52,0.56,Large,Cost Plus,Europe
+920,53,29.08,0.0,Medium,Cost Plus,Europe
+921,-52,40.33,0.01,Large,Time & Material,Asia
+922,180,-15.2,0.1,Small,Cost Plus,Europe
+923,-83,-24.3,0.8,Large,Fixed Price,North America
+924,-91,-36.88,0.74,Large,Time & Material,Asia
+925,-41,-36.14,0.45,Large,Fixed Price,Europe
+926,-40,24.81,0.48,Medium,Cost Plus,Asia
+927,17,-41.55,0.02,Medium,Fixed Price,North America
+928,-18,-18.23,0.18,Small,Fixed Price,Europe
+929,-70,3.19,0.73,Medium,Cost Plus,Middle East
+930,192,-1.73,0.97,Large,Fixed Price,North America
+931,166,-31.87,0.25,Large,Cost Plus,North America
+932,64,-1.72,0.5,Small,Fixed Price,Middle East
+933,-11,39.18,0.03,Medium,Cost Plus,Europe
+934,-45,23.31,0.11,Small,Fixed Price,Europe
+935,153,-38.35,0.23,Small,Time & Material,North America
+936,-48,16.65,0.36,Medium,Fixed Price,Middle East
+937,-84,-31.49,0.07,Medium,Fixed Price,Middle East
+938,42,22.7,0.72,Small,Time & Material,Europe
+939,11,-28.88,0.36,Medium,Time & Material,North America
+940,163,2.63,0.59,Large,Cost Plus,North America
+941,-64,5.15,0.4,Large,Cost Plus,North America
+942,-56,22.61,0.97,Small,Cost Plus,Asia
+943,59,27.82,0.76,Small,Fixed Price,North America
+944,184,-33.68,0.53,Large,Fixed Price,Asia
+945,78,-38.57,0.87,Large,Time & Material,Middle East
+946,113,3.2,0.14,Large,Fixed Price,Europe
+947,10,-36.39,0.66,Medium,Fixed Price,Middle East
+948,-34,34.69,0.41,Large,Fixed Price,Middle East
+949,175,-13.18,0.6,Medium,Cost Plus,Middle East
+950,-71,-21.75,0.06,Small,Fixed Price,North America
+951,197,-49.47,0.6,Large,Time & Material,Asia
+952,173,32.82,0.29,Small,Cost Plus,Asia
+953,48,11.91,0.93,Small,Fixed Price,Europe
+954,41,-42.92,0.5,Small,Fixed Price,Middle East
+955,159,-45.6,0.58,Medium,Fixed Price,Europe
+956,158,26.27,0.49,Large,Cost Plus,Europe
+957,186,17.97,0.51,Small,Cost Plus,Europe
+958,155,-22.28,0.02,Small,Fixed Price,Asia
+959,169,-47.29,0.99,Medium,Time & Material,Europe
+960,189,25.39,0.11,Large,Time & Material,Middle East
+961,92,-16.33,0.02,Large,Fixed Price,Middle East
+962,3,-5.95,0.94,Large,Time & Material,Europe
+963,11,-33.65,0.66,Medium,Fixed Price,Asia
+964,86,-45.76,0.03,Medium,Cost Plus,North America
+965,21,-31.43,0.2,Medium,Cost Plus,Middle East
+966,11,33.41,0.51,Small,Time & Material,Asia
+967,-82,-6.73,0.28,Large,Cost Plus,North America
+968,12,4.37,0.92,Medium,Fixed Price,North America
+969,70,-27.32,0.67,Small,Time & Material,North America
+970,-58,-38.8,0.2,Large,Fixed Price,North America
+971,-16,-19.6,0.22,Small,Fixed Price,Europe
+972,168,26.63,0.38,Small,Fixed Price,North America
+973,-3,8.83,0.88,Large,Fixed Price,North America
+974,68,45.95,0.92,Small,Fixed Price,Middle East
+975,123,-34.11,0.03,Small,Time & Material,North America
+976,-19,-33.14,0.1,Large,Fixed Price,Europe
+977,-11,-27.04,0.37,Medium,Time & Material,North America
+978,180,12.08,0.79,Small,Fixed Price,Asia
+979,-31,12.98,0.26,Medium,Fixed Price,North America
+980,72,-11.27,0.65,Large,Fixed Price,Middle East
+981,129,41.93,0.05,Small,Fixed Price,Asia
+982,81,9.79,0.62,Small,Time & Material,Asia
+983,1,-38.27,0.12,Small,Time & Material,North America
+984,-85,-29.57,0.36,Small,Fixed Price,Middle East
+985,61,41.5,0.27,Small,Time & Material,North America
+986,50,31.76,0.72,Large,Time & Material,North America
+987,96,11.5,0.01,Small,Time & Material,Asia
+988,-21,41.39,0.39,Medium,Cost Plus,North America
+989,116,36.89,0.81,Medium,Cost Plus,Middle East
+990,46,-4.17,0.5,Large,Time & Material,North America
+991,123,40.88,0.64,Small,Cost Plus,Europe
+992,155,47.58,0.19,Small,Cost Plus,Asia
+993,53,13.24,0.7,Medium,Cost Plus,Middle East
+994,195,30.49,0.11,Small,Fixed Price,Europe
+995,-71,37.73,0.49,Medium,Fixed Price,Asia
+996,12,-36.39,0.55,Small,Cost Plus,Europe
+997,149,22.59,0.08,Large,Time & Material,Middle East
+998,117,-46.61,0.34,Small,Cost Plus,North America
+999,-52,-35.36,0.13,Small,Time & Material,Middle East
+1000,194,-6.57,0.94,Medium,Time & Material,Middle East
