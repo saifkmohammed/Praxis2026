@@ -1,0 +1,425 @@
+Geography_ID,Geography,NAICS_ID,Industry,Enterprise_Size_ID,Enterprise_Size,Training_Expenditure_Thousand_CAD,Training_Expenditure_Q,Source
+1,Canada,1,All surveyed industries,1,"Total, all enterprises",377549.9,B,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,1,All surveyed industries,2,Small enterprises (10 to 99 employees),241491.6,B,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,1,All surveyed industries,3,Medium-sized enterprises (100 to 249 employees),48034.2,B,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,1,All surveyed industries,4,Large enterprises (250 and more employees),88024.1,C,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,2,"Agriculture, forestry, fishing and hunting",1,"Total, all enterprises",3396.0,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,2,"Agriculture, forestry, fishing and hunting",2,Small enterprises (10 to 99 employees),3151.5,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,2,"Agriculture, forestry, fishing and hunting",3,Medium-sized enterprises (100 to 249 employees),,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,2,"Agriculture, forestry, fishing and hunting",4,Large enterprises (250 and more employees),215.3,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,3,"Mining, quarrying, and oil and gas extraction",1,"Total, all enterprises",14026.7,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,3,"Mining, quarrying, and oil and gas extraction",2,Small enterprises (10 to 99 employees),,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,3,"Mining, quarrying, and oil and gas extraction",3,Medium-sized enterprises (100 to 249 employees),624.4,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,3,"Mining, quarrying, and oil and gas extraction",4,Large enterprises (250 and more employees),4672.9,D,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,4,"Oil and gas extraction, support activities for mining, and oil and gas extraction",1,"Total, all enterprises",11527.2,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,4,"Oil and gas extraction, support activities for mining, and oil and gas extraction",2,Small enterprises (10 to 99 employees),,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,4,"Oil and gas extraction, support activities for mining, and oil and gas extraction",3,Medium-sized enterprises (100 to 249 employees),,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,4,"Oil and gas extraction, support activities for mining, and oil and gas extraction",4,Large enterprises (250 and more employees),2590.9,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,5,Mining and quarrying (except oil and gas),1,"Total, all enterprises",2499.5,B,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,5,Mining and quarrying (except oil and gas),2,Small enterprises (10 to 99 employees),,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,5,Mining and quarrying (except oil and gas),3,Medium-sized enterprises (100 to 249 employees),208.4,D,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,5,Mining and quarrying (except oil and gas),4,Large enterprises (250 and more employees),2082.0,C,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,6,Utilities,1,"Total, all enterprises",7346.6,D,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,6,Utilities,2,Small enterprises (10 to 99 employees),231.3,D,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,6,Utilities,3,Medium-sized enterprises (100 to 249 employees),,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,6,Utilities,4,Large enterprises (250 and more employees),6608.7,D,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,7,Utilities,1,"Total, all enterprises",7346.6,D,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,7,Utilities,2,Small enterprises (10 to 99 employees),231.3,D,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,7,Utilities,3,Medium-sized enterprises (100 to 249 employees),,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,7,Utilities,4,Large enterprises (250 and more employees),6608.7,D,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,8,Manufacturing,1,"Total, all enterprises",95406.4,B,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,8,Manufacturing,2,Small enterprises (10 to 99 employees),56070.0,C,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,8,Manufacturing,3,Medium-sized enterprises (100 to 249 employees),17965.5,C,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,8,Manufacturing,4,Large enterprises (250 and more employees),21371.0,B,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,9,Food manufacturing,1,"Total, all enterprises",11827.3,D,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,9,Food manufacturing,2,Small enterprises (10 to 99 employees),5583.0,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,9,Food manufacturing,3,Medium-sized enterprises (100 to 249 employees),,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,9,Food manufacturing,4,Large enterprises (250 and more employees),3836.8,D,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,10,Beverage and tobacco product manufacturing,1,"Total, all enterprises",1738.8,C,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,10,Beverage and tobacco product manufacturing,2,Small enterprises (10 to 99 employees),611.3,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,10,Beverage and tobacco product manufacturing,3,Medium-sized enterprises (100 to 249 employees),,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,10,Beverage and tobacco product manufacturing,4,Large enterprises (250 and more employees),1095.5,C,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,11,"Textile mills, textile product mills, clothing manufacturing,  leather and allied product manufacturing",1,"Total, all enterprises",3903.7,D,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,11,"Textile mills, textile product mills, clothing manufacturing,  leather and allied product manufacturing",2,Small enterprises (10 to 99 employees),809.2,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,11,"Textile mills, textile product mills, clothing manufacturing,  leather and allied product manufacturing",3,Medium-sized enterprises (100 to 249 employees),,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,11,"Textile mills, textile product mills, clothing manufacturing,  leather and allied product manufacturing",4,Large enterprises (250 and more employees),2576.5,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,12,Wood product manufacturing,1,"Total, all enterprises",4130.9,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,12,Wood product manufacturing,2,Small enterprises (10 to 99 employees),,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,12,Wood product manufacturing,3,Medium-sized enterprises (100 to 249 employees),,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,12,Wood product manufacturing,4,Large enterprises (250 and more employees),343.9,D,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,13,Paper manufacturing and petroleum and coal product manufacturing,1,"Total, all enterprises",1489.1,D,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,13,Paper manufacturing and petroleum and coal product manufacturing,2,Small enterprises (10 to 99 employees),,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,13,Paper manufacturing and petroleum and coal product manufacturing,3,Medium-sized enterprises (100 to 249 employees),,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,13,Paper manufacturing and petroleum and coal product manufacturing,4,Large enterprises (250 and more employees),1029.9,D,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,14,Printing and related support activities,1,"Total, all enterprises",3078.4,D,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,14,Printing and related support activities,2,Small enterprises (10 to 99 employees),,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,14,Printing and related support activities,3,Medium-sized enterprises (100 to 249 employees),724.4,C,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,14,Printing and related support activities,4,Large enterprises (250 and more employees),662.4,C,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,15,Chemical manufacturing,1,"Total, all enterprises",5625.5,D,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,15,Chemical manufacturing,2,Small enterprises (10 to 99 employees),2919.3,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,15,Chemical manufacturing,3,Medium-sized enterprises (100 to 249 employees),1432.0,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,15,Chemical manufacturing,4,Large enterprises (250 and more employees),1274.1,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,16,Plastics and rubber products manufacturing,1,"Total, all enterprises",3339.7,D,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,16,Plastics and rubber products manufacturing,2,Small enterprises (10 to 99 employees),1737.8,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,16,Plastics and rubber products manufacturing,3,Medium-sized enterprises (100 to 249 employees),866.7,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,16,Plastics and rubber products manufacturing,4,Large enterprises (250 and more employees),735.3,D,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,17,Non-metallic mineral product manufacturing,1,"Total, all enterprises",3079.4,D,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,17,Non-metallic mineral product manufacturing,2,Small enterprises (10 to 99 employees),,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,17,Non-metallic mineral product manufacturing,3,Medium-sized enterprises (100 to 249 employees),,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,17,Non-metallic mineral product manufacturing,4,Large enterprises (250 and more employees),2482.5,D,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,18,"Primary metal manufacturing, computer and electronic product manufacturing and electrical equipment, appliance and component manufacturing",1,"Total, all enterprises",6842.3,D,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,18,"Primary metal manufacturing, computer and electronic product manufacturing and electrical equipment, appliance and component manufacturing",2,Small enterprises (10 to 99 employees),3440.1,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,18,"Primary metal manufacturing, computer and electronic product manufacturing and electrical equipment, appliance and component manufacturing",3,Medium-sized enterprises (100 to 249 employees),1909.4,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,18,"Primary metal manufacturing, computer and electronic product manufacturing and electrical equipment, appliance and component manufacturing",4,Large enterprises (250 and more employees),1492.8,D,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,19,Fabricated metal product manufacturing,1,"Total, all enterprises",16431.1,D,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,19,Fabricated metal product manufacturing,2,Small enterprises (10 to 99 employees),10277.2,D,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,19,Fabricated metal product manufacturing,3,Medium-sized enterprises (100 to 249 employees),,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,19,Fabricated metal product manufacturing,4,Large enterprises (250 and more employees),2823.7,D,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,20,Machinery manufacturing,1,"Total, all enterprises",,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,20,Machinery manufacturing,2,Small enterprises (10 to 99 employees),,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,20,Machinery manufacturing,3,Medium-sized enterprises (100 to 249 employees),2307.1,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,20,Machinery manufacturing,4,Large enterprises (250 and more employees),1389.9,D,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,21,Transportation equipment manufacturing,1,"Total, all enterprises",5918.0,D,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,21,Transportation equipment manufacturing,2,Small enterprises (10 to 99 employees),3265.5,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,21,Transportation equipment manufacturing,3,Medium-sized enterprises (100 to 249 employees),1306.6,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,21,Transportation equipment manufacturing,4,Large enterprises (250 and more employees),1345.8,D,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,22,Furniture and related product manufacturing,1,"Total, all enterprises",6838.9,D,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,22,Furniture and related product manufacturing,2,Small enterprises (10 to 99 employees),5023.8,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,22,Furniture and related product manufacturing,3,Medium-sized enterprises (100 to 249 employees),1695.1,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,22,Furniture and related product manufacturing,4,Large enterprises (250 and more employees),120.0,D,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,23,Miscellaneous manufacturing,1,"Total, all enterprises",3621.1,D,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,23,Miscellaneous manufacturing,2,Small enterprises (10 to 99 employees),3312.4,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,23,Miscellaneous manufacturing,3,Medium-sized enterprises (100 to 249 employees),146.8,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,23,Miscellaneous manufacturing,4,Large enterprises (250 and more employees),,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,24,Wholesale trade,1,"Total, all enterprises",54973.2,C,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,24,Wholesale trade,2,Small enterprises (10 to 99 employees),42952.5,C,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,24,Wholesale trade,3,Medium-sized enterprises (100 to 249 employees),8252.5,D,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,24,Wholesale trade,4,Large enterprises (250 and more employees),3768.2,C,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,25,"Farm product merchant wholesalers, petroleum and petroleum products merchant wholesalers, business-to-business electronic markets, and agents and brokers",1,"Total, all enterprises",3972.4,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,25,"Farm product merchant wholesalers, petroleum and petroleum products merchant wholesalers, business-to-business electronic markets, and agents and brokers",2,Small enterprises (10 to 99 employees),1931.8,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,25,"Farm product merchant wholesalers, petroleum and petroleum products merchant wholesalers, business-to-business electronic markets, and agents and brokers",3,Medium-sized enterprises (100 to 249 employees),,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,25,"Farm product merchant wholesalers, petroleum and petroleum products merchant wholesalers, business-to-business electronic markets, and agents and brokers",4,Large enterprises (250 and more employees),12.0,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,26,"Food, beverage and tobacco merchant wholesalers",1,"Total, all enterprises",3782.0,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,26,"Food, beverage and tobacco merchant wholesalers",2,Small enterprises (10 to 99 employees),2796.2,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,26,"Food, beverage and tobacco merchant wholesalers",3,Medium-sized enterprises (100 to 249 employees),,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,26,"Food, beverage and tobacco merchant wholesalers",4,Large enterprises (250 and more employees),356.8,D,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,27,Personal and household goods merchant wholesalers,1,"Total, all enterprises",9852.0,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,27,Personal and household goods merchant wholesalers,2,Small enterprises (10 to 99 employees),7750.5,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,27,Personal and household goods merchant wholesalers,3,Medium-sized enterprises (100 to 249 employees),,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,27,Personal and household goods merchant wholesalers,4,Large enterprises (250 and more employees),380.1,D,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,28,Motor vehicle and motor vehicle parts and accessories merchant wholesalers,1,"Total, all enterprises",2150.9,D,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,28,Motor vehicle and motor vehicle parts and accessories merchant wholesalers,2,Small enterprises (10 to 99 employees),,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,28,Motor vehicle and motor vehicle parts and accessories merchant wholesalers,3,Medium-sized enterprises (100 to 249 employees),1309.5,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,28,Motor vehicle and motor vehicle parts and accessories merchant wholesalers,4,Large enterprises (250 and more employees),404.2,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,29,Building material and supplies merchant wholesalers,1,"Total, all enterprises",7525.0,D,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,29,Building material and supplies merchant wholesalers,2,Small enterprises (10 to 99 employees),5663.0,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,29,Building material and supplies merchant wholesalers,3,Medium-sized enterprises (100 to 249 employees),,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,29,Building material and supplies merchant wholesalers,4,Large enterprises (250 and more employees),1027.9,C,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,30,"Machinery, equipment and supplies merchant wholesalers",1,"Total, all enterprises",23186.5,D,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,30,"Machinery, equipment and supplies merchant wholesalers",2,Small enterprises (10 to 99 employees),20437.4,D,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,30,"Machinery, equipment and supplies merchant wholesalers",3,Medium-sized enterprises (100 to 249 employees),,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,30,"Machinery, equipment and supplies merchant wholesalers",4,Large enterprises (250 and more employees),1237.3,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,31,Miscellaneous merchant wholesalers,1,"Total, all enterprises",4504.5,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,31,Miscellaneous merchant wholesalers,2,Small enterprises (10 to 99 employees),3936.2,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,31,Miscellaneous merchant wholesalers,3,Medium-sized enterprises (100 to 249 employees),218.4,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,31,Miscellaneous merchant wholesalers,4,Large enterprises (250 and more employees),349.9,D,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,32,Retail trade,1,"Total, all enterprises",19254.7,D,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,32,Retail trade,2,Small enterprises (10 to 99 employees),11271.2,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,32,Retail trade,3,Medium-sized enterprises (100 to 249 employees),2516.7,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,32,Retail trade,4,Large enterprises (250 and more employees),5466.8,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,33,Retail trade,1,"Total, all enterprises",13767.1,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,33,Retail trade,2,Small enterprises (10 to 99 employees),,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,33,Retail trade,3,Medium-sized enterprises (100 to 249 employees),,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,33,Retail trade,4,Large enterprises (250 and more employees),5188.2,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,34,Retail trade,1,"Total, all enterprises",5487.6,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,34,Retail trade,2,Small enterprises (10 to 99 employees),,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,34,Retail trade,3,Medium-sized enterprises (100 to 249 employees),,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,34,Retail trade,4,Large enterprises (250 and more employees),278.5,D,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,35,Transportation and warehousing,1,"Total, all enterprises",21443.8,D,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,35,Transportation and warehousing,2,Small enterprises (10 to 99 employees),10544.8,D,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,35,Transportation and warehousing,3,Medium-sized enterprises (100 to 249 employees),2478.3,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,35,Transportation and warehousing,4,Large enterprises (250 and more employees),,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,36,"Air transportation,  rail transportation, water transportation, pipeline transportation, scenic and sightseeing transportation",1,"Total, all enterprises",,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,36,"Air transportation,  rail transportation, water transportation, pipeline transportation, scenic and sightseeing transportation",2,Small enterprises (10 to 99 employees),379.2,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,36,"Air transportation,  rail transportation, water transportation, pipeline transportation, scenic and sightseeing transportation",3,Medium-sized enterprises (100 to 249 employees),70.3,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,36,"Air transportation,  rail transportation, water transportation, pipeline transportation, scenic and sightseeing transportation",4,Large enterprises (250 and more employees),,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,37,Truck transportation,1,"Total, all enterprises",9313.0,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,37,Truck transportation,2,Small enterprises (10 to 99 employees),,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,37,Truck transportation,3,Medium-sized enterprises (100 to 249 employees),,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,37,Truck transportation,4,Large enterprises (250 and more employees),1295.7,D,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,38,Transit and ground passenger transportation,1,"Total, all enterprises",209.9,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,38,Transit and ground passenger transportation,2,Small enterprises (10 to 99 employees),,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,38,Transit and ground passenger transportation,3,Medium-sized enterprises (100 to 249 employees),74.4,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,38,Transit and ground passenger transportation,4,Large enterprises (250 and more employees),0.0,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,39,Support activities for transportation,1,"Total, all enterprises",3437.6,D,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,39,Support activities for transportation,2,Small enterprises (10 to 99 employees),2700.0,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,39,Support activities for transportation,3,Medium-sized enterprises (100 to 249 employees),557.6,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,39,Support activities for transportation,4,Large enterprises (250 and more employees),180.0,D,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,40,"Postal service,  couriers and messengers",1,"Total, all enterprises",926.0,D,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,40,"Postal service,  couriers and messengers",2,Small enterprises (10 to 99 employees),503.0,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,40,"Postal service,  couriers and messengers",3,Medium-sized enterprises (100 to 249 employees),,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,40,"Postal service,  couriers and messengers",4,Large enterprises (250 and more employees),,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,41,Warehousing and storage,1,"Total, all enterprises",590.9,D,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,41,Warehousing and storage,2,Small enterprises (10 to 99 employees),,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,41,Warehousing and storage,3,Medium-sized enterprises (100 to 249 employees),263.5,D,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,41,Warehousing and storage,4,Large enterprises (250 and more employees),38.6,D,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,42,Information and cultural industries,1,"Total, all enterprises",14246.9,D,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,42,Information and cultural industries,2,Small enterprises (10 to 99 employees),7088.3,D,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,42,Information and cultural industries,3,Medium-sized enterprises (100 to 249 employees),,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,42,Information and cultural industries,4,Large enterprises (250 and more employees),2928.1,D,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,43,Publishing industries (except internet),1,"Total, all enterprises",8771.0,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,43,Publishing industries (except internet),2,Small enterprises (10 to 99 employees),3129.3,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,43,Publishing industries (except internet),3,Medium-sized enterprises (100 to 249 employees),,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,43,Publishing industries (except internet),4,Large enterprises (250 and more employees),1835.2,D,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,44,Motion picture and sound recording industries,1,"Total, all enterprises",2234.7,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,44,Motion picture and sound recording industries,2,Small enterprises (10 to 99 employees),1878.6,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,44,Motion picture and sound recording industries,3,Medium-sized enterprises (100 to 249 employees),0.0,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,44,Motion picture and sound recording industries,4,Large enterprises (250 and more employees),,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,45,"Broadcasting (except Internet), telecommunications,  data processing, hosting, and related services and other information services",1,"Total, all enterprises",3241.2,D,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,45,"Broadcasting (except Internet), telecommunications,  data processing, hosting, and related services and other information services",2,Small enterprises (10 to 99 employees),2080.4,D,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,45,"Broadcasting (except Internet), telecommunications,  data processing, hosting, and related services and other information services",3,Medium-sized enterprises (100 to 249 employees),,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,45,"Broadcasting (except Internet), telecommunications,  data processing, hosting, and related services and other information services",4,Large enterprises (250 and more employees),736.8,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,46,Finance and insurance,1,"Total, all enterprises",14437.9,C,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,46,Finance and insurance,2,Small enterprises (10 to 99 employees),8162.4,D,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,46,Finance and insurance,3,Medium-sized enterprises (100 to 249 employees),1618.9,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,46,Finance and insurance,4,Large enterprises (250 and more employees),4656.6,D,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,47,Credit intermediation and related activities,1,"Total, all enterprises",9260.0,D,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,47,Credit intermediation and related activities,2,Small enterprises (10 to 99 employees),5639.0,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,47,Credit intermediation and related activities,3,Medium-sized enterprises (100 to 249 employees),,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,47,Credit intermediation and related activities,4,Large enterprises (250 and more employees),2965.8,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,48,Insurance carriers and related activities,1,"Total, all enterprises",2274.4,D,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,48,Insurance carriers and related activities,2,Small enterprises (10 to 99 employees),,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,48,Insurance carriers and related activities,3,Medium-sized enterprises (100 to 249 employees),,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,48,Insurance carriers and related activities,4,Large enterprises (250 and more employees),501.3,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,49,"Securities, commodity contracts and other financial investment and related activities, and funds and other financial vehicles",1,"Total, all enterprises",2903.4,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,49,"Securities, commodity contracts and other financial investment and related activities, and funds and other financial vehicles",2,Small enterprises (10 to 99 employees),,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,49,"Securities, commodity contracts and other financial investment and related activities, and funds and other financial vehicles",3,Medium-sized enterprises (100 to 249 employees),361.7,D,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,49,"Securities, commodity contracts and other financial investment and related activities, and funds and other financial vehicles",4,Large enterprises (250 and more employees),1189.5,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,50,"Professional, scientific and technical services",1,"Total, all enterprises",42025.5,D,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,50,"Professional, scientific and technical services",2,Small enterprises (10 to 99 employees),32560.5,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,50,"Professional, scientific and technical services",3,Medium-sized enterprises (100 to 249 employees),,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,50,"Professional, scientific and technical services",4,Large enterprises (250 and more employees),6528.4,D,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,51,"Professional, scientific and technical services",1,"Total, all enterprises",42025.5,D,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,51,"Professional, scientific and technical services",2,Small enterprises (10 to 99 employees),32560.5,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,51,"Professional, scientific and technical services",3,Medium-sized enterprises (100 to 249 employees),,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,51,"Professional, scientific and technical services",4,Large enterprises (250 and more employees),6528.4,D,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,52,Health care and social assistance,1,"Total, all enterprises",7432.8,D,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,52,Health care and social assistance,2,Small enterprises (10 to 99 employees),,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,52,Health care and social assistance,3,Medium-sized enterprises (100 to 249 employees),3981.0,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,52,Health care and social assistance,4,Large enterprises (250 and more employees),1650.6,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,53,Other sectors,1,"Total, all enterprises",83559.5,D,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,53,Other sectors,2,Small enterprises (10 to 99 employees),58928.6,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,53,Other sectors,3,Medium-sized enterprises (100 to 249 employees),,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+1,Canada,53,Other sectors,4,Large enterprises (250 and more employees),,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+2,Atlantic,1,All surveyed industries,1,"Total, all enterprises",14286.9,C,Statistics Canada SAT 2022 Table 27-10-0401-01
+2,Atlantic,2,"Agriculture, forestry, fishing and hunting",1,"Total, all enterprises",,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+2,Atlantic,3,"Mining, quarrying, and oil and gas extraction",1,"Total, all enterprises",23.9,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+2,Atlantic,4,"Oil and gas extraction, support activities for mining, and oil and gas extraction",1,"Total, all enterprises",0.0,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+2,Atlantic,5,Mining and quarrying (except oil and gas),1,"Total, all enterprises",23.9,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+2,Atlantic,6,Utilities,1,"Total, all enterprises",582.5,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+2,Atlantic,7,Utilities,1,"Total, all enterprises",582.5,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+2,Atlantic,8,Manufacturing,1,"Total, all enterprises",4676.2,C,Statistics Canada SAT 2022 Table 27-10-0401-01
+2,Atlantic,9,Food manufacturing,1,"Total, all enterprises",677.0,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+2,Atlantic,10,Beverage and tobacco product manufacturing,1,"Total, all enterprises",,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+2,Atlantic,11,"Textile mills, textile product mills, clothing manufacturing,  leather and allied product manufacturing",1,"Total, all enterprises",,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+2,Atlantic,12,Wood product manufacturing,1,"Total, all enterprises",263.4,D,Statistics Canada SAT 2022 Table 27-10-0401-01
+2,Atlantic,13,Paper manufacturing and petroleum and coal product manufacturing,1,"Total, all enterprises",299.8,D,Statistics Canada SAT 2022 Table 27-10-0401-01
+2,Atlantic,14,Printing and related support activities,1,"Total, all enterprises",11.7,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+2,Atlantic,15,Chemical manufacturing,1,"Total, all enterprises",11.7,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+2,Atlantic,16,Plastics and rubber products manufacturing,1,"Total, all enterprises",56.2,D,Statistics Canada SAT 2022 Table 27-10-0401-01
+2,Atlantic,17,Non-metallic mineral product manufacturing,1,"Total, all enterprises",23.6,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+2,Atlantic,18,"Primary metal manufacturing, computer and electronic product manufacturing and electrical equipment, appliance and component manufacturing",1,"Total, all enterprises",1396.8,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+2,Atlantic,19,Fabricated metal product manufacturing,1,"Total, all enterprises",,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+2,Atlantic,20,Machinery manufacturing,1,"Total, all enterprises",461.3,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+2,Atlantic,21,Transportation equipment manufacturing,1,"Total, all enterprises",642.2,C,Statistics Canada SAT 2022 Table 27-10-0401-01
+2,Atlantic,22,Furniture and related product manufacturing,1,"Total, all enterprises",99.9,D,Statistics Canada SAT 2022 Table 27-10-0401-01
+2,Atlantic,23,Miscellaneous manufacturing,1,"Total, all enterprises",209.9,C,Statistics Canada SAT 2022 Table 27-10-0401-01
+2,Atlantic,24,Wholesale trade,1,"Total, all enterprises",485.4,D,Statistics Canada SAT 2022 Table 27-10-0401-01
+2,Atlantic,25,"Farm product merchant wholesalers, petroleum and petroleum products merchant wholesalers, business-to-business electronic markets, and agents and brokers",1,"Total, all enterprises",,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+2,Atlantic,26,"Food, beverage and tobacco merchant wholesalers",1,"Total, all enterprises",,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+2,Atlantic,27,Personal and household goods merchant wholesalers,1,"Total, all enterprises",56.9,D,Statistics Canada SAT 2022 Table 27-10-0401-01
+2,Atlantic,28,Motor vehicle and motor vehicle parts and accessories merchant wholesalers,1,"Total, all enterprises",11.3,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+2,Atlantic,29,Building material and supplies merchant wholesalers,1,"Total, all enterprises",75.1,C,Statistics Canada SAT 2022 Table 27-10-0401-01
+2,Atlantic,30,"Machinery, equipment and supplies merchant wholesalers",1,"Total, all enterprises",,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+2,Atlantic,31,Miscellaneous merchant wholesalers,1,"Total, all enterprises",77.3,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+2,Atlantic,32,Retail trade,1,"Total, all enterprises",,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+2,Atlantic,33,Retail trade,1,"Total, all enterprises",,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+2,Atlantic,34,Retail trade,1,"Total, all enterprises",,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+2,Atlantic,35,Transportation and warehousing,1,"Total, all enterprises",212.8,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+2,Atlantic,36,"Air transportation,  rail transportation, water transportation, pipeline transportation, scenic and sightseeing transportation",1,"Total, all enterprises",11.2,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+2,Atlantic,37,Truck transportation,1,"Total, all enterprises",,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+2,Atlantic,38,Transit and ground passenger transportation,1,"Total, all enterprises",0.0,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+2,Atlantic,39,Support activities for transportation,1,"Total, all enterprises",78.9,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+2,Atlantic,40,"Postal service,  couriers and messengers",1,"Total, all enterprises",,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+2,Atlantic,41,Warehousing and storage,1,"Total, all enterprises",,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+2,Atlantic,42,Information and cultural industries,1,"Total, all enterprises",400.0,D,Statistics Canada SAT 2022 Table 27-10-0401-01
+2,Atlantic,43,Publishing industries (except internet),1,"Total, all enterprises",,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+2,Atlantic,44,Motion picture and sound recording industries,1,"Total, all enterprises",,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+2,Atlantic,45,"Broadcasting (except Internet), telecommunications,  data processing, hosting, and related services and other information services",1,"Total, all enterprises",121.0,D,Statistics Canada SAT 2022 Table 27-10-0401-01
+2,Atlantic,46,Finance and insurance,1,"Total, all enterprises",423.0,C,Statistics Canada SAT 2022 Table 27-10-0401-01
+2,Atlantic,47,Credit intermediation and related activities,1,"Total, all enterprises",149.7,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+2,Atlantic,48,Insurance carriers and related activities,1,"Total, all enterprises",272.4,C,Statistics Canada SAT 2022 Table 27-10-0401-01
+2,Atlantic,49,"Securities, commodity contracts and other financial investment and related activities, and funds and other financial vehicles",1,"Total, all enterprises",0.8,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+2,Atlantic,50,"Professional, scientific and technical services",1,"Total, all enterprises",,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+2,Atlantic,51,"Professional, scientific and technical services",1,"Total, all enterprises",,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+2,Atlantic,52,Health care and social assistance,1,"Total, all enterprises",198.8,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+2,Atlantic,53,Other sectors,1,"Total, all enterprises",3431.3,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+3,Quebec,1,All surveyed industries,1,"Total, all enterprises",111339.8,B,Statistics Canada SAT 2022 Table 27-10-0401-01
+3,Quebec,2,"Agriculture, forestry, fishing and hunting",1,"Total, all enterprises",,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+3,Quebec,3,"Mining, quarrying, and oil and gas extraction",1,"Total, all enterprises",424.9,D,Statistics Canada SAT 2022 Table 27-10-0401-01
+3,Quebec,4,"Oil and gas extraction, support activities for mining, and oil and gas extraction",1,"Total, all enterprises",105.1,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+3,Quebec,5,Mining and quarrying (except oil and gas),1,"Total, all enterprises",319.8,D,Statistics Canada SAT 2022 Table 27-10-0401-01
+3,Quebec,6,Utilities,1,"Total, all enterprises",5723.3,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+3,Quebec,7,Utilities,1,"Total, all enterprises",5723.3,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+3,Quebec,8,Manufacturing,1,"Total, all enterprises",35083.8,B,Statistics Canada SAT 2022 Table 27-10-0401-01
+3,Quebec,9,Food manufacturing,1,"Total, all enterprises",4653.5,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+3,Quebec,10,Beverage and tobacco product manufacturing,1,"Total, all enterprises",,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+3,Quebec,11,"Textile mills, textile product mills, clothing manufacturing,  leather and allied product manufacturing",1,"Total, all enterprises",977.6,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+3,Quebec,12,Wood product manufacturing,1,"Total, all enterprises",1405.8,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+3,Quebec,13,Paper manufacturing and petroleum and coal product manufacturing,1,"Total, all enterprises",,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+3,Quebec,14,Printing and related support activities,1,"Total, all enterprises",,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+3,Quebec,15,Chemical manufacturing,1,"Total, all enterprises",1781.3,D,Statistics Canada SAT 2022 Table 27-10-0401-01
+3,Quebec,16,Plastics and rubber products manufacturing,1,"Total, all enterprises",,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+3,Quebec,17,Non-metallic mineral product manufacturing,1,"Total, all enterprises",1503.0,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+3,Quebec,18,"Primary metal manufacturing, computer and electronic product manufacturing and electrical equipment, appliance and component manufacturing",1,"Total, all enterprises",2474.8,D,Statistics Canada SAT 2022 Table 27-10-0401-01
+3,Quebec,19,Fabricated metal product manufacturing,1,"Total, all enterprises",8679.2,D,Statistics Canada SAT 2022 Table 27-10-0401-01
+3,Quebec,20,Machinery manufacturing,1,"Total, all enterprises",4448.4,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+3,Quebec,21,Transportation equipment manufacturing,1,"Total, all enterprises",2534.6,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+3,Quebec,22,Furniture and related product manufacturing,1,"Total, all enterprises",2603.7,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+3,Quebec,23,Miscellaneous manufacturing,1,"Total, all enterprises",424.7,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+3,Quebec,24,Wholesale trade,1,"Total, all enterprises",19229.8,D,Statistics Canada SAT 2022 Table 27-10-0401-01
+3,Quebec,25,"Farm product merchant wholesalers, petroleum and petroleum products merchant wholesalers, business-to-business electronic markets, and agents and brokers",1,"Total, all enterprises",1448.8,D,Statistics Canada SAT 2022 Table 27-10-0401-01
+3,Quebec,26,"Food, beverage and tobacco merchant wholesalers",1,"Total, all enterprises",984.4,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+3,Quebec,27,Personal and household goods merchant wholesalers,1,"Total, all enterprises",6626.7,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+3,Quebec,28,Motor vehicle and motor vehicle parts and accessories merchant wholesalers,1,"Total, all enterprises",1217.6,D,Statistics Canada SAT 2022 Table 27-10-0401-01
+3,Quebec,29,Building material and supplies merchant wholesalers,1,"Total, all enterprises",899.2,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+3,Quebec,30,"Machinery, equipment and supplies merchant wholesalers",1,"Total, all enterprises",6879.2,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+3,Quebec,31,Miscellaneous merchant wholesalers,1,"Total, all enterprises",1173.9,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+3,Quebec,32,Retail trade,1,"Total, all enterprises",6309.9,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+3,Quebec,33,Retail trade,1,"Total, all enterprises",,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+3,Quebec,34,Retail trade,1,"Total, all enterprises",,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+3,Quebec,35,Transportation and warehousing,1,"Total, all enterprises",4686.4,D,Statistics Canada SAT 2022 Table 27-10-0401-01
+3,Quebec,36,"Air transportation,  rail transportation, water transportation, pipeline transportation, scenic and sightseeing transportation",1,"Total, all enterprises",368.6,D,Statistics Canada SAT 2022 Table 27-10-0401-01
+3,Quebec,37,Truck transportation,1,"Total, all enterprises",1636.1,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+3,Quebec,38,Transit and ground passenger transportation,1,"Total, all enterprises",,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+3,Quebec,39,Support activities for transportation,1,"Total, all enterprises",2111.8,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+3,Quebec,40,"Postal service,  couriers and messengers",1,"Total, all enterprises",393.5,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+3,Quebec,41,Warehousing and storage,1,"Total, all enterprises",115.7,D,Statistics Canada SAT 2022 Table 27-10-0401-01
+3,Quebec,42,Information and cultural industries,1,"Total, all enterprises",2166.0,D,Statistics Canada SAT 2022 Table 27-10-0401-01
+3,Quebec,43,Publishing industries (except internet),1,"Total, all enterprises",821.2,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+3,Quebec,44,Motion picture and sound recording industries,1,"Total, all enterprises",,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+3,Quebec,45,"Broadcasting (except Internet), telecommunications,  data processing, hosting, and related services and other information services",1,"Total, all enterprises",1092.7,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+3,Quebec,46,Finance and insurance,1,"Total, all enterprises",,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+3,Quebec,47,Credit intermediation and related activities,1,"Total, all enterprises",,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+3,Quebec,48,Insurance carriers and related activities,1,"Total, all enterprises",215.0,D,Statistics Canada SAT 2022 Table 27-10-0401-01
+3,Quebec,49,"Securities, commodity contracts and other financial investment and related activities, and funds and other financial vehicles",1,"Total, all enterprises",340.6,D,Statistics Canada SAT 2022 Table 27-10-0401-01
+3,Quebec,50,"Professional, scientific and technical services",1,"Total, all enterprises",18089.9,D,Statistics Canada SAT 2022 Table 27-10-0401-01
+3,Quebec,51,"Professional, scientific and technical services",1,"Total, all enterprises",18089.9,D,Statistics Canada SAT 2022 Table 27-10-0401-01
+3,Quebec,52,Health care and social assistance,1,"Total, all enterprises",,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+3,Quebec,53,Other sectors,1,"Total, all enterprises",,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+4,Ontario,1,All surveyed industries,1,"Total, all enterprises",134097.0,C,Statistics Canada SAT 2022 Table 27-10-0401-01
+4,Ontario,2,"Agriculture, forestry, fishing and hunting",1,"Total, all enterprises",,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+4,Ontario,3,"Mining, quarrying, and oil and gas extraction",1,"Total, all enterprises",1664.5,C,Statistics Canada SAT 2022 Table 27-10-0401-01
+4,Ontario,4,"Oil and gas extraction, support activities for mining, and oil and gas extraction",1,"Total, all enterprises",726.4,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+4,Ontario,5,Mining and quarrying (except oil and gas),1,"Total, all enterprises",938.1,D,Statistics Canada SAT 2022 Table 27-10-0401-01
+4,Ontario,6,Utilities,1,"Total, all enterprises",,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+4,Ontario,7,Utilities,1,"Total, all enterprises",,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+4,Ontario,8,Manufacturing,1,"Total, all enterprises",41675.3,D,Statistics Canada SAT 2022 Table 27-10-0401-01
+4,Ontario,9,Food manufacturing,1,"Total, all enterprises",6053.1,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+4,Ontario,10,Beverage and tobacco product manufacturing,1,"Total, all enterprises",1145.8,C,Statistics Canada SAT 2022 Table 27-10-0401-01
+4,Ontario,11,"Textile mills, textile product mills, clothing manufacturing,  leather and allied product manufacturing",1,"Total, all enterprises",2470.9,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+4,Ontario,12,Wood product manufacturing,1,"Total, all enterprises",,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+4,Ontario,13,Paper manufacturing and petroleum and coal product manufacturing,1,"Total, all enterprises",,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+4,Ontario,14,Printing and related support activities,1,"Total, all enterprises",776.6,C,Statistics Canada SAT 2022 Table 27-10-0401-01
+4,Ontario,15,Chemical manufacturing,1,"Total, all enterprises",2352.8,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+4,Ontario,16,Plastics and rubber products manufacturing,1,"Total, all enterprises",,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+4,Ontario,17,Non-metallic mineral product manufacturing,1,"Total, all enterprises",,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+4,Ontario,18,"Primary metal manufacturing, computer and electronic product manufacturing and electrical equipment, appliance and component manufacturing",1,"Total, all enterprises",1672.0,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+4,Ontario,19,Fabricated metal product manufacturing,1,"Total, all enterprises",6604.9,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+4,Ontario,20,Machinery manufacturing,1,"Total, all enterprises",,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+4,Ontario,21,Transportation equipment manufacturing,1,"Total, all enterprises",,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+4,Ontario,22,Furniture and related product manufacturing,1,"Total, all enterprises",3627.6,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+4,Ontario,23,Miscellaneous manufacturing,1,"Total, all enterprises",1553.6,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+4,Ontario,24,Wholesale trade,1,"Total, all enterprises",18463.5,D,Statistics Canada SAT 2022 Table 27-10-0401-01
+4,Ontario,25,"Farm product merchant wholesalers, petroleum and petroleum products merchant wholesalers, business-to-business electronic markets, and agents and brokers",1,"Total, all enterprises",,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+4,Ontario,26,"Food, beverage and tobacco merchant wholesalers",1,"Total, all enterprises",590.5,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+4,Ontario,27,Personal and household goods merchant wholesalers,1,"Total, all enterprises",,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+4,Ontario,28,Motor vehicle and motor vehicle parts and accessories merchant wholesalers,1,"Total, all enterprises",,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+4,Ontario,29,Building material and supplies merchant wholesalers,1,"Total, all enterprises",2736.5,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+4,Ontario,30,"Machinery, equipment and supplies merchant wholesalers",1,"Total, all enterprises",9492.9,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+4,Ontario,31,Miscellaneous merchant wholesalers,1,"Total, all enterprises",,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+4,Ontario,32,Retail trade,1,"Total, all enterprises",,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+4,Ontario,33,Retail trade,1,"Total, all enterprises",,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+4,Ontario,34,Retail trade,1,"Total, all enterprises",,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+4,Ontario,35,Transportation and warehousing,1,"Total, all enterprises",,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+4,Ontario,36,"Air transportation,  rail transportation, water transportation, pipeline transportation, scenic and sightseeing transportation",1,"Total, all enterprises",,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+4,Ontario,37,Truck transportation,1,"Total, all enterprises",,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+4,Ontario,38,Transit and ground passenger transportation,1,"Total, all enterprises",,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+4,Ontario,39,Support activities for transportation,1,"Total, all enterprises",,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+4,Ontario,40,"Postal service,  couriers and messengers",1,"Total, all enterprises",249.8,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+4,Ontario,41,Warehousing and storage,1,"Total, all enterprises",200.6,D,Statistics Canada SAT 2022 Table 27-10-0401-01
+4,Ontario,42,Information and cultural industries,1,"Total, all enterprises",5116.3,D,Statistics Canada SAT 2022 Table 27-10-0401-01
+4,Ontario,43,Publishing industries (except internet),1,"Total, all enterprises",2817.5,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+4,Ontario,44,Motion picture and sound recording industries,1,"Total, all enterprises",,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+4,Ontario,45,"Broadcasting (except Internet), telecommunications,  data processing, hosting, and related services and other information services",1,"Total, all enterprises",1594.2,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+4,Ontario,46,Finance and insurance,1,"Total, all enterprises",7604.8,D,Statistics Canada SAT 2022 Table 27-10-0401-01
+4,Ontario,47,Credit intermediation and related activities,1,"Total, all enterprises",4382.6,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+4,Ontario,48,Insurance carriers and related activities,1,"Total, all enterprises",660.1,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+4,Ontario,49,"Securities, commodity contracts and other financial investment and related activities, and funds and other financial vehicles",1,"Total, all enterprises",2562.0,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+4,Ontario,50,"Professional, scientific and technical services",1,"Total, all enterprises",,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+4,Ontario,51,"Professional, scientific and technical services",1,"Total, all enterprises",,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+4,Ontario,52,Health care and social assistance,1,"Total, all enterprises",4480.6,D,Statistics Canada SAT 2022 Table 27-10-0401-01
+4,Ontario,53,Other sectors,1,"Total, all enterprises",30136.0,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+5,Rest of Canada,1,All surveyed industries,1,"Total, all enterprises",117826.2,D,Statistics Canada SAT 2022 Table 27-10-0401-01
+5,Rest of Canada,2,"Agriculture, forestry, fishing and hunting",1,"Total, all enterprises",,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+5,Rest of Canada,3,"Mining, quarrying, and oil and gas extraction",1,"Total, all enterprises",11913.4,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+5,Rest of Canada,4,"Oil and gas extraction, support activities for mining, and oil and gas extraction",1,"Total, all enterprises",,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+5,Rest of Canada,5,Mining and quarrying (except oil and gas),1,"Total, all enterprises",1217.7,C,Statistics Canada SAT 2022 Table 27-10-0401-01
+5,Rest of Canada,6,Utilities,1,"Total, all enterprises",589.5,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+5,Rest of Canada,7,Utilities,1,"Total, all enterprises",589.5,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+5,Rest of Canada,8,Manufacturing,1,"Total, all enterprises",13971.1,C,Statistics Canada SAT 2022 Table 27-10-0401-01
+5,Rest of Canada,9,Food manufacturing,1,"Total, all enterprises",,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+5,Rest of Canada,10,Beverage and tobacco product manufacturing,1,"Total, all enterprises",342.8,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+5,Rest of Canada,11,"Textile mills, textile product mills, clothing manufacturing,  leather and allied product manufacturing",1,"Total, all enterprises",,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+5,Rest of Canada,12,Wood product manufacturing,1,"Total, all enterprises",,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+5,Rest of Canada,13,Paper manufacturing and petroleum and coal product manufacturing,1,"Total, all enterprises",648.8,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+5,Rest of Canada,14,Printing and related support activities,1,"Total, all enterprises",421.4,D,Statistics Canada SAT 2022 Table 27-10-0401-01
+5,Rest of Canada,15,Chemical manufacturing,1,"Total, all enterprises",,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+5,Rest of Canada,16,Plastics and rubber products manufacturing,1,"Total, all enterprises",775.6,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+5,Rest of Canada,17,Non-metallic mineral product manufacturing,1,"Total, all enterprises",1424.3,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+5,Rest of Canada,18,"Primary metal manufacturing, computer and electronic product manufacturing and electrical equipment, appliance and component manufacturing",1,"Total, all enterprises",,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+5,Rest of Canada,19,Fabricated metal product manufacturing,1,"Total, all enterprises",,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+5,Rest of Canada,20,Machinery manufacturing,1,"Total, all enterprises",3140.3,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+5,Rest of Canada,21,Transportation equipment manufacturing,1,"Total, all enterprises",,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+5,Rest of Canada,22,Furniture and related product manufacturing,1,"Total, all enterprises",,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+5,Rest of Canada,23,Miscellaneous manufacturing,1,"Total, all enterprises",,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+5,Rest of Canada,24,Wholesale trade,1,"Total, all enterprises",16794.5,D,Statistics Canada SAT 2022 Table 27-10-0401-01
+5,Rest of Canada,25,"Farm product merchant wholesalers, petroleum and petroleum products merchant wholesalers, business-to-business electronic markets, and agents and brokers",1,"Total, all enterprises",,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+5,Rest of Canada,26,"Food, beverage and tobacco merchant wholesalers",1,"Total, all enterprises",,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+5,Rest of Canada,27,Personal and household goods merchant wholesalers,1,"Total, all enterprises",,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+5,Rest of Canada,28,Motor vehicle and motor vehicle parts and accessories merchant wholesalers,1,"Total, all enterprises",,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+5,Rest of Canada,29,Building material and supplies merchant wholesalers,1,"Total, all enterprises",,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+5,Rest of Canada,30,"Machinery, equipment and supplies merchant wholesalers",1,"Total, all enterprises",,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+5,Rest of Canada,31,Miscellaneous merchant wholesalers,1,"Total, all enterprises",,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+5,Rest of Canada,32,Retail trade,1,"Total, all enterprises",,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+5,Rest of Canada,33,Retail trade,1,"Total, all enterprises",,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+5,Rest of Canada,34,Retail trade,1,"Total, all enterprises",,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+5,Rest of Canada,35,Transportation and warehousing,1,"Total, all enterprises",3760.4,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+5,Rest of Canada,36,"Air transportation,  rail transportation, water transportation, pipeline transportation, scenic and sightseeing transportation",1,"Total, all enterprises",124.7,C,Statistics Canada SAT 2022 Table 27-10-0401-01
+5,Rest of Canada,37,Truck transportation,1,"Total, all enterprises",,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+5,Rest of Canada,38,Transit and ground passenger transportation,1,"Total, all enterprises",71.5,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+5,Rest of Canada,39,Support activities for transportation,1,"Total, all enterprises",616.3,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+5,Rest of Canada,40,"Postal service,  couriers and messengers",1,"Total, all enterprises",,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+5,Rest of Canada,41,Warehousing and storage,1,"Total, all enterprises",,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+5,Rest of Canada,42,Information and cultural industries,1,"Total, all enterprises",,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+5,Rest of Canada,43,Publishing industries (except internet),1,"Total, all enterprises",,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+5,Rest of Canada,44,Motion picture and sound recording industries,1,"Total, all enterprises",,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+5,Rest of Canada,45,"Broadcasting (except Internet), telecommunications,  data processing, hosting, and related services and other information services",1,"Total, all enterprises",,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+5,Rest of Canada,46,Finance and insurance,1,"Total, all enterprises",2482.7,D,Statistics Canada SAT 2022 Table 27-10-0401-01
+5,Rest of Canada,47,Credit intermediation and related activities,1,"Total, all enterprises",1355.8,D,Statistics Canada SAT 2022 Table 27-10-0401-01
+5,Rest of Canada,48,Insurance carriers and related activities,1,"Total, all enterprises",,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+5,Rest of Canada,49,"Securities, commodity contracts and other financial investment and related activities, and funds and other financial vehicles",1,"Total, all enterprises",0.0,E,Statistics Canada SAT 2022 Table 27-10-0401-01
+5,Rest of Canada,50,"Professional, scientific and technical services",1,"Total, all enterprises",,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+5,Rest of Canada,51,"Professional, scientific and technical services",1,"Total, all enterprises",,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+5,Rest of Canada,52,Health care and social assistance,1,"Total, all enterprises",,F,Statistics Canada SAT 2022 Table 27-10-0401-01
+5,Rest of Canada,53,Other sectors,1,"Total, all enterprises",,F,Statistics Canada SAT 2022 Table 27-10-0401-01

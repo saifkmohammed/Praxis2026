@@ -1,0 +1,113 @@
+Year,Geography_ID,Geography,Size_ID,Employment_Size,AI_Investment_VeryImportant_Pct,AI_Investment_VeryImportant_Q,AI_Investment_SomewhatImportant_Pct,AI_Investment_SomewhatImportant_Q,AI_Use_Pct,AI_Use_Q
+2025,1,Canada,19,1 to 4 employees,8.0,A,20.6,A,12.8,A
+2025,1,Canada,20,5 to 19 employees,8.7,A,17.9,A,9.4,A
+2025,1,Canada,21,20 to 99 employees,8.1,A,21.7,B,15.4,A
+2025,1,Canada,22,100 or more employees,7.6,A,32.5,B,17.9,B
+2025,2,Newfoundland and Labrador,19,1 to 4 employees,5.6,B,8.5,B,4.3,A
+2025,2,Newfoundland and Labrador,20,5 to 19 employees,6.6,B,8.0,A,3.2,A
+2025,2,Newfoundland and Labrador,21,20 to 99 employees,20.3,D,30.8,E,3.0,A
+2025,2,Newfoundland and Labrador,22,100 or more employees,15.7,D,19.7,E,25.2,E
+2025,3,Prince Edward Island,19,1 to 4 employees,5.7,A,21.0,C,8.1,B
+2025,3,Prince Edward Island,20,5 to 19 employees,6.7,B,5.5,A,5.4,B
+2025,3,Prince Edward Island,21,20 to 99 employees,3.2,A,29.4,D,28.6,E
+2025,3,Prince Edward Island,22,100 or more employees,14.6,E,29.5,D,7.6,B
+2025,4,Nova Scotia,19,1 to 4 employees,2.8,A,17.2,B,10.0,B
+2025,4,Nova Scotia,20,5 to 19 employees,7.6,B,14.3,B,13.1,B
+2025,4,Nova Scotia,21,20 to 99 employees,2.6,A,20.0,C,6.4,A
+2025,4,Nova Scotia,22,100 or more employees,4.2,A,21.9,C,8.4,B
+2025,5,New Brunswick,19,1 to 4 employees,5.2,A,10.9,B,9.7,B
+2025,5,New Brunswick,20,5 to 19 employees,4.5,A,8.0,A,6.2,A
+2025,5,New Brunswick,21,20 to 99 employees,4.4,A,30.0,D,8.5,B
+2025,5,New Brunswick,22,100 or more employees,0.5,A,32.2,D,19.6,E
+2025,6,Quebec,19,1 to 4 employees,5.7,A,19.5,B,12.4,B
+2025,6,Quebec,20,5 to 19 employees,5.1,B,11.4,B,11.2,B
+2025,6,Quebec,21,20 to 99 employees,3.1,A,21.0,C,16.5,B
+2025,6,Quebec,22,100 or more employees,8.0,B,35.7,E,19.0,D
+2025,7,Ontario,19,1 to 4 employees,9.9,A,22.4,B,14.2,B
+2025,7,Ontario,20,5 to 19 employees,11.0,B,22.6,B,10.3,B
+2025,7,Ontario,21,20 to 99 employees,12.9,B,21.2,B,16.3,B
+2025,7,Ontario,22,100 or more employees,8.4,B,30.0,C,16.3,C
+2025,8,Manitoba,19,1 to 4 employees,4.5,A,11.4,B,7.2,A
+2025,8,Manitoba,20,5 to 19 employees,6.1,B,12.9,B,6.2,A
+2025,8,Manitoba,21,20 to 99 employees,15.5,C,17.3,B,20.7,C
+2025,8,Manitoba,22,100 or more employees,4.0,B,25.8,D,17.5,D
+2025,9,Saskatchewan,19,1 to 4 employees,2.2,A,21.0,B,8.5,A
+2025,9,Saskatchewan,20,5 to 19 employees,2.0,A,9.0,A,7.3,B
+2025,9,Saskatchewan,21,20 to 99 employees,3.9,A,12.2,B,4.3,A
+2025,9,Saskatchewan,22,100 or more employees,2.6,A,29.9,C,15.8,C
+2025,10,Alberta,19,1 to 4 employees,6.4,A,20.8,B,13.1,B
+2025,10,Alberta,20,5 to 19 employees,14.4,B,23.5,C,8.2,B
+2025,10,Alberta,21,20 to 99 employees,8.7,B,28.2,D,17.1,C
+2025,10,Alberta,22,100 or more employees,10.0,B,30.7,C,25.5,C
+2025,11,British Columbia,19,1 to 4 employees,10.8,B,21.5,B,13.0,A
+2025,11,British Columbia,20,5 to 19 employees,6.6,A,17.4,B,8.0,A
+2025,11,British Columbia,21,20 to 99 employees,3.5,A,19.9,C,14.0,C
+2025,11,British Columbia,22,100 or more employees,4.1,A,41.5,D,15.0,C
+2025,12,Yukon,19,1 to 4 employees,12.0,D,8.8,B,11.3,B
+2025,12,Yukon,20,5 to 19 employees,9.1,D,29.5,E,5.9,B
+2025,12,Yukon,21,20 to 99 employees,9.3,C,15.0,B,11.0,B
+2025,12,Yukon,22,100 or more employees,,F,0.0,A,0.0,A
+2025,13,Northwest Territories,19,1 to 4 employees,0.9,A,3.6,B,1.1,A
+2025,13,Northwest Territories,20,5 to 19 employees,6.2,B,15.2,D,10.2,D
+2025,13,Northwest Territories,21,20 to 99 employees,2.6,A,12.6,C,7.2,C
+2025,13,Northwest Territories,22,100 or more employees,0.0,A,13.1,C,0.0,A
+2025,14,Nunavut,19,1 to 4 employees,11.1,D,31.7,D,15.9,D
+2025,14,Nunavut,20,5 to 19 employees,7.7,C,25.2,E,10.4,E
+2025,14,Nunavut,21,20 to 99 employees,0.0,A,5.8,A,0.0,A
+2025,14,Nunavut,22,100 or more employees,0.0,A,12.2,C,,F
+2026,1,Canada,19,1 to 4 employees,,,,,19.9,A
+2026,1,Canada,20,5 to 19 employees,,,,,14.9,A
+2026,1,Canada,21,20 to 99 employees,,,,,25.8,B
+2026,1,Canada,22,100 or more employees,,,,,27.8,B
+2026,2,Newfoundland and Labrador,19,1 to 4 employees,,,,,18.4,B
+2026,2,Newfoundland and Labrador,20,5 to 19 employees,,,,,10.9,B
+2026,2,Newfoundland and Labrador,21,20 to 99 employees,,,,,20.5,C
+2026,2,Newfoundland and Labrador,22,100 or more employees,,,,,23.7,D
+2026,3,Prince Edward Island,19,1 to 4 employees,,,,,19.1,B
+2026,3,Prince Edward Island,20,5 to 19 employees,,,,,19.9,B
+2026,3,Prince Edward Island,21,20 to 99 employees,,,,,25.7,C
+2026,3,Prince Edward Island,22,100 or more employees,,,,,4.2,A
+2026,4,Nova Scotia,19,1 to 4 employees,,,,,12.0,A
+2026,4,Nova Scotia,20,5 to 19 employees,,,,,23.4,B
+2026,4,Nova Scotia,21,20 to 99 employees,,,,,9.4,B
+2026,4,Nova Scotia,22,100 or more employees,,,,,18.2,C
+2026,5,New Brunswick,19,1 to 4 employees,,,,,14.5,B
+2026,5,New Brunswick,20,5 to 19 employees,,,,,12.8,B
+2026,5,New Brunswick,21,20 to 99 employees,,,,,14.6,C
+2026,5,New Brunswick,22,100 or more employees,,,,,25.8,D
+2026,6,Quebec,19,1 to 4 employees,,,,,19.4,B
+2026,6,Quebec,20,5 to 19 employees,,,,,15.7,B
+2026,6,Quebec,21,20 to 99 employees,,,,,31.0,C
+2026,6,Quebec,22,100 or more employees,,,,,33.3,C
+2026,7,Ontario,19,1 to 4 employees,,,,,20.4,A
+2026,7,Ontario,20,5 to 19 employees,,,,,9.2,A
+2026,7,Ontario,21,20 to 99 employees,,,,,29.1,B
+2026,7,Ontario,22,100 or more employees,,,,,23.6,B
+2026,8,Manitoba,19,1 to 4 employees,,,,,11.1,A
+2026,8,Manitoba,20,5 to 19 employees,,,,,16.2,B
+2026,8,Manitoba,21,20 to 99 employees,,,,,11.9,B
+2026,8,Manitoba,22,100 or more employees,,,,,14.6,B
+2026,9,Saskatchewan,19,1 to 4 employees,,,,,15.1,B
+2026,9,Saskatchewan,20,5 to 19 employees,,,,,11.0,B
+2026,9,Saskatchewan,21,20 to 99 employees,,,,,13.9,B
+2026,9,Saskatchewan,22,100 or more employees,,,,,20.8,C
+2026,10,Alberta,19,1 to 4 employees,,,,,18.5,B
+2026,10,Alberta,20,5 to 19 employees,,,,,16.6,B
+2026,10,Alberta,21,20 to 99 employees,,,,,21.1,B
+2026,10,Alberta,22,100 or more employees,,,,,29.1,C
+2026,11,British Columbia,19,1 to 4 employees,,,,,25.1,B
+2026,11,British Columbia,20,5 to 19 employees,,,,,24.9,B
+2026,11,British Columbia,21,20 to 99 employees,,,,,24.3,C
+2026,11,British Columbia,22,100 or more employees,,,,,37.0,D
+2026,12,Yukon,19,1 to 4 employees,,,,,24.2,D
+2026,12,Yukon,20,5 to 19 employees,,,,,17.4,C
+2026,12,Yukon,21,20 to 99 employees,,,,,16.9,C
+2026,12,Yukon,22,100 or more employees,,,,,0.0,A
+2026,13,Northwest Territories,19,1 to 4 employees,,,,,16.8,D
+2026,13,Northwest Territories,20,5 to 19 employees,,,,,9.3,B
+2026,13,Northwest Territories,21,20 to 99 employees,,,,,6.5,B
+2026,13,Northwest Territories,22,100 or more employees,,,,,,F
+2026,14,Nunavut,19,1 to 4 employees,,,,,6.9,B
+2026,14,Nunavut,20,5 to 19 employees,,,,,20.4,D
+2026,14,Nunavut,21,20 to 99 employees,,,,,9.5,D
+2026,14,Nunavut,22,100 or more employees,,,,,0.0,A

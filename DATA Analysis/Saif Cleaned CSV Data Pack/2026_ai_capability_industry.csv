@@ -1,0 +1,225 @@
+Geography_ID,Geography,Industry_ID,Industry,AEC_Role,AI_Use_Pct,AI_Use_Q,Train_Existing_Employees_Pct,Train_Existing_Employees_Q,Train_Executives_Pct,Train_Executives_Q,Hire_AI_Skilled_Employees_Pct,Hire_AI_Skilled_Employees_Q,External_Consultants_Vendors_Pct,External_Consultants_Vendors_Q,No_Training_Staffing_Change_Pct,No_Training_Staffing_Change_Q,Source
+1,Canada,2,"Agriculture, forestry, fishing and hunting",Other industry,4.5,A,14.7,D,3.7,A,0.8,A,,F,,F,Statistics Canada CSBC Q2 2026
+1,Canada,3,"Mining, quarrying, and oil and gas extraction",Other industry,13.4,B,23.3,E,,F,8.3,C,4.9,B,,F,Statistics Canada CSBC Q2 2026
+1,Canada,4,Construction,AEC direct: Construction,9.2,A,22.4,C,14.1,C,10.0,B,5.9,B,72.2,D,Statistics Canada CSBC Q2 2026
+1,Canada,5,Manufacturing,Operational comparator: Manufacturing,13.1,B,42.1,E,30.7,E,8.9,B,5.8,A,46.7,E,Statistics Canada CSBC Q2 2026
+1,Canada,6,Wholesale trade,Other industry,7.9,A,53.7,E,39.7,E,21.7,E,21.9,E,33.7,E,Statistics Canada CSBC Q2 2026
+1,Canada,7,Retail trade,Other industry,19.2,B,41.1,D,30.9,D,15.3,B,11.0,B,49.9,D,Statistics Canada CSBC Q2 2026
+1,Canada,8,Transportation and warehousing,Other industry,9.8,A,35.9,E,22.1,E,30.6,E,3.0,A,48.2,E,Statistics Canada CSBC Q2 2026
+1,Canada,9,Information and cultural industries,Other industry,42.3,B,49.2,C,41.8,C,37.8,C,11.0,B,36.7,C,Statistics Canada CSBC Q2 2026
+1,Canada,10,Finance and insurance,Other industry,40.4,C,41.8,D,32.1,D,14.6,C,19.3,C,44.9,D,Statistics Canada CSBC Q2 2026
+1,Canada,11,Real estate and rental and leasing,Other industry,18.7,B,40.2,D,24.0,D,8.9,C,10.3,D,51.8,E,Statistics Canada CSBC Q2 2026
+1,Canada,12,"Professional, scientific and technical services",AEC professional-services comparator,32.4,B,41.4,C,21.1,B,9.4,B,16.0,B,49.7,C,Statistics Canada CSBC Q2 2026
+1,Canada,13,"Administrative and support, waste management and remediation services",Other industry,12.2,A,49.5,E,32.2,D,7.0,B,6.8,B,41.0,D,Statistics Canada CSBC Q2 2026
+1,Canada,14,Health care and social assistance,Other industry,30.0,B,14.1,B,14.5,B,7.7,B,12.2,B,62.3,C,Statistics Canada CSBC Q2 2026
+1,Canada,15,"Arts, entertainment and recreation",Other industry,25.3,B,17.7,C,13.1,C,5.7,B,20.0,E,61.7,E,Statistics Canada CSBC Q2 2026
+1,Canada,16,Accommodation and food services,Other industry,12.7,B,18.8,C,6.8,B,8.8,C,16.9,E,56.4,E,Statistics Canada CSBC Q2 2026
+1,Canada,17,Other services (except public administration),Other industry,17.2,B,16.1,C,14.3,C,7.1,B,7.7,C,82.9,C,Statistics Canada CSBC Q2 2026
+2,Newfoundland and Labrador,2,"Agriculture, forestry, fishing and hunting",Other industry,5.7,B,0.0,A,0.0,A,0.0,A,0.0,A,100.0,A,Statistics Canada CSBC Q2 2026
+2,Newfoundland and Labrador,3,"Mining, quarrying, and oil and gas extraction",Other industry,21.2,E,,F,,F,,F,,F,,F,Statistics Canada CSBC Q2 2026
+2,Newfoundland and Labrador,4,Construction,AEC direct: Construction,5.8,B,0.0,A,0.0,A,0.0,A,0.0,A,100.0,A,Statistics Canada CSBC Q2 2026
+2,Newfoundland and Labrador,5,Manufacturing,Operational comparator: Manufacturing,1.8,A,0.0,A,15.5,E,0.0,A,0.0,A,84.5,E,Statistics Canada CSBC Q2 2026
+2,Newfoundland and Labrador,6,Wholesale trade,Other industry,0.0,A,,..,,..,,..,,..,,..,Statistics Canada CSBC Q2 2026
+2,Newfoundland and Labrador,7,Retail trade,Other industry,16.9,C,,F,14.1,E,13.9,E,0.0,A,,F,Statistics Canada CSBC Q2 2026
+2,Newfoundland and Labrador,8,Transportation and warehousing,Other industry,3.5,B,100.0,A,100.0,A,0.0,A,,F,0.0,A,Statistics Canada CSBC Q2 2026
+2,Newfoundland and Labrador,9,Information and cultural industries,Other industry,56.4,E,55.9,E,49.1,E,41.7,E,2.1,A,44.1,E,Statistics Canada CSBC Q2 2026
+2,Newfoundland and Labrador,10,Finance and insurance,Other industry,26.1,E,84.2,E,,F,,F,,F,15.8,E,Statistics Canada CSBC Q2 2026
+2,Newfoundland and Labrador,11,Real estate and rental and leasing,Other industry,26.1,E,0.0,A,,F,13.8,E,0.0,A,,F,Statistics Canada CSBC Q2 2026
+2,Newfoundland and Labrador,12,"Professional, scientific and technical services",AEC professional-services comparator,37.0,E,,F,1.9,A,1.9,A,2.2,A,,F,Statistics Canada CSBC Q2 2026
+2,Newfoundland and Labrador,13,"Administrative and support, waste management and remediation services",Other industry,13.7,D,5.4,C,5.4,C,5.2,C,,F,,F,Statistics Canada CSBC Q2 2026
+2,Newfoundland and Labrador,14,Health care and social assistance,Other industry,27.4,D,15.6,E,6.7,C,0.0,A,0.0,A,,F,Statistics Canada CSBC Q2 2026
+2,Newfoundland and Labrador,15,"Arts, entertainment and recreation",Other industry,29.3,D,,F,,F,3.2,B,3.5,B,,F,Statistics Canada CSBC Q2 2026
+2,Newfoundland and Labrador,16,Accommodation and food services,Other industry,2.7,A,,F,0.0,A,0.0,A,0.0,A,,F,Statistics Canada CSBC Q2 2026
+2,Newfoundland and Labrador,17,Other services (except public administration),Other industry,13.1,D,0.0,A,0.8,A,0.0,A,,F,,F,Statistics Canada CSBC Q2 2026
+3,Prince Edward Island,2,"Agriculture, forestry, fishing and hunting",Other industry,11.7,E,0.0,A,0.0,A,0.0,A,0.0,A,100.0,A,Statistics Canada CSBC Q2 2026
+3,Prince Edward Island,3,"Mining, quarrying, and oil and gas extraction",Other industry,0.0,A,,..,,..,,..,,..,,..,Statistics Canada CSBC Q2 2026
+3,Prince Edward Island,4,Construction,AEC direct: Construction,28.2,D,2.2,A,2.2,A,2.2,A,0.0,A,97.8,A,Statistics Canada CSBC Q2 2026
+3,Prince Edward Island,5,Manufacturing,Operational comparator: Manufacturing,25.0,E,0.0,A,0.0,A,0.0,A,,F,,F,Statistics Canada CSBC Q2 2026
+3,Prince Edward Island,6,Wholesale trade,Other industry,14.8,D,0.0,A,0.0,A,0.0,A,0.0,A,100.0,A,Statistics Canada CSBC Q2 2026
+3,Prince Edward Island,7,Retail trade,Other industry,14.4,D,,F,0.0,A,,F,0.0,A,,F,Statistics Canada CSBC Q2 2026
+3,Prince Edward Island,8,Transportation and warehousing,Other industry,4.9,B,0.0,A,0.0,A,0.0,A,0.0,A,100.0,A,Statistics Canada CSBC Q2 2026
+3,Prince Edward Island,9,Information and cultural industries,Other industry,56.7,E,,F,32.2,E,23.1,E,20.5,D,,F,Statistics Canada CSBC Q2 2026
+3,Prince Edward Island,10,Finance and insurance,Other industry,48.4,E,58.5,E,14.1,C,5.1,B,17.1,D,35.1,E,Statistics Canada CSBC Q2 2026
+3,Prince Edward Island,11,Real estate and rental and leasing,Other industry,12.6,D,,F,0.0,A,0.0,A,,F,0.0,A,Statistics Canada CSBC Q2 2026
+3,Prince Edward Island,12,"Professional, scientific and technical services",AEC professional-services comparator,36.8,E,28.9,E,9.8,D,0.8,A,5.8,C,71.1,E,Statistics Canada CSBC Q2 2026
+3,Prince Edward Island,13,"Administrative and support, waste management and remediation services",Other industry,13.8,D,,F,0.0,A,,F,,F,,F,Statistics Canada CSBC Q2 2026
+3,Prince Edward Island,14,Health care and social assistance,Other industry,18.6,D,12.4,D,6.1,C,6.1,C,0.0,A,87.6,D,Statistics Canada CSBC Q2 2026
+3,Prince Edward Island,15,"Arts, entertainment and recreation",Other industry,4.2,B,100.0,A,0.0,A,0.0,A,0.0,A,0.0,A,Statistics Canada CSBC Q2 2026
+3,Prince Edward Island,16,Accommodation and food services,Other industry,25.8,C,29.1,E,9.6,C,5.1,B,20.9,E,57.5,E,Statistics Canada CSBC Q2 2026
+3,Prince Edward Island,17,Other services (except public administration),Other industry,13.0,C,,F,14.9,E,0.0,A,1.3,A,,F,Statistics Canada CSBC Q2 2026
+4,Nova Scotia,2,"Agriculture, forestry, fishing and hunting",Other industry,0.0,A,,..,,..,,..,,..,,..,Statistics Canada CSBC Q2 2026
+4,Nova Scotia,3,"Mining, quarrying, and oil and gas extraction",Other industry,1.7,A,0.0,A,100.0,A,0.0,A,0.0,A,0.0,A,Statistics Canada CSBC Q2 2026
+4,Nova Scotia,4,Construction,AEC direct: Construction,13.2,C,,F,1.4,A,1.4,A,0.0,A,,F,Statistics Canada CSBC Q2 2026
+4,Nova Scotia,5,Manufacturing,Operational comparator: Manufacturing,9.0,C,,F,1.3,A,0.0,A,0.0,A,,F,Statistics Canada CSBC Q2 2026
+4,Nova Scotia,6,Wholesale trade,Other industry,7.0,C,98.9,A,,F,0.0,A,0.0,A,1.1,A,Statistics Canada CSBC Q2 2026
+4,Nova Scotia,7,Retail trade,Other industry,8.6,C,0.0,A,0.0,A,2.5,B,0.0,A,97.5,B,Statistics Canada CSBC Q2 2026
+4,Nova Scotia,8,Transportation and warehousing,Other industry,11.5,C,,F,,F,0.0,A,,F,,F,Statistics Canada CSBC Q2 2026
+4,Nova Scotia,9,Information and cultural industries,Other industry,53.8,E,68.7,E,,F,,F,20.6,E,24.1,E,Statistics Canada CSBC Q2 2026
+4,Nova Scotia,10,Finance and insurance,Other industry,40.8,E,,F,,F,24.2,E,18.8,E,,F,Statistics Canada CSBC Q2 2026
+4,Nova Scotia,11,Real estate and rental and leasing,Other industry,26.7,E,,F,,F,11.1,E,0.0,A,,F,Statistics Canada CSBC Q2 2026
+4,Nova Scotia,12,"Professional, scientific and technical services",AEC professional-services comparator,49.0,D,28.5,E,30.4,E,20.5,E,13.8,E,60.0,E,Statistics Canada CSBC Q2 2026
+4,Nova Scotia,13,"Administrative and support, waste management and remediation services",Other industry,7.7,B,,F,,F,0.0,A,0.0,A,,F,Statistics Canada CSBC Q2 2026
+4,Nova Scotia,14,Health care and social assistance,Other industry,16.6,D,,F,3.2,B,3.2,B,3.2,B,,F,Statistics Canada CSBC Q2 2026
+4,Nova Scotia,15,"Arts, entertainment and recreation",Other industry,14.1,D,13.7,E,0.0,A,0.0,A,0.0,A,86.3,E,Statistics Canada CSBC Q2 2026
+4,Nova Scotia,16,Accommodation and food services,Other industry,9.9,B,2.5,B,2.5,B,0.0,A,0.0,A,97.5,B,Statistics Canada CSBC Q2 2026
+4,Nova Scotia,17,Other services (except public administration),Other industry,20.0,D,,F,,F,,F,,F,,F,Statistics Canada CSBC Q2 2026
+5,New Brunswick,2,"Agriculture, forestry, fishing and hunting",Other industry,0.0,A,,..,,..,,..,,..,,..,Statistics Canada CSBC Q2 2026
+5,New Brunswick,3,"Mining, quarrying, and oil and gas extraction",Other industry,9.8,B,,F,,F,0.0,A,0.0,A,,F,Statistics Canada CSBC Q2 2026
+5,New Brunswick,4,Construction,AEC direct: Construction,8.4,C,,F,,F,0.0,A,,F,,F,Statistics Canada CSBC Q2 2026
+5,New Brunswick,5,Manufacturing,Operational comparator: Manufacturing,11.2,B,,F,15.6,E,,F,,F,,F,Statistics Canada CSBC Q2 2026
+5,New Brunswick,6,Wholesale trade,Other industry,6.6,B,100.0,A,,F,0.0,A,,F,0.0,A,Statistics Canada CSBC Q2 2026
+5,New Brunswick,7,Retail trade,Other industry,7.6,B,0.0,A,0.0,A,0.0,A,0.0,A,100.0,A,Statistics Canada CSBC Q2 2026
+5,New Brunswick,8,Transportation and warehousing,Other industry,5.8,B,,F,0.0,A,0.0,A,0.0,A,,F,Statistics Canada CSBC Q2 2026
+5,New Brunswick,9,Information and cultural industries,Other industry,51.6,E,,F,,F,,F,3.9,B,,F,Statistics Canada CSBC Q2 2026
+5,New Brunswick,10,Finance and insurance,Other industry,46.7,D,63.1,E,51.6,E,,F,5.2,B,36.9,E,Statistics Canada CSBC Q2 2026
+5,New Brunswick,11,Real estate and rental and leasing,Other industry,18.5,C,,F,4.0,B,4.0,B,0.0,A,,F,Statistics Canada CSBC Q2 2026
+5,New Brunswick,12,"Professional, scientific and technical services",AEC professional-services comparator,29.9,D,40.2,E,33.1,E,24.3,E,17.7,E,46.5,E,Statistics Canada CSBC Q2 2026
+5,New Brunswick,13,"Administrative and support, waste management and remediation services",Other industry,12.6,C,,F,,F,0.0,A,0.0,A,,F,Statistics Canada CSBC Q2 2026
+5,New Brunswick,14,Health care and social assistance,Other industry,26.3,D,2.5,B,2.5,B,2.5,B,0.0,A,97.5,B,Statistics Canada CSBC Q2 2026
+5,New Brunswick,15,"Arts, entertainment and recreation",Other industry,19.5,C,2.9,A,,F,2.9,A,,F,,F,Statistics Canada CSBC Q2 2026
+5,New Brunswick,16,Accommodation and food services,Other industry,11.2,B,27.3,E,2.8,B,0.0,A,0.0,A,69.9,E,Statistics Canada CSBC Q2 2026
+5,New Brunswick,17,Other services (except public administration),Other industry,14.6,C,,F,,F,,F,0.0,A,,F,Statistics Canada CSBC Q2 2026
+6,Quebec,2,"Agriculture, forestry, fishing and hunting",Other industry,4.3,B,2.4,B,2.4,B,0.0,A,,F,,F,Statistics Canada CSBC Q2 2026
+6,Quebec,3,"Mining, quarrying, and oil and gas extraction",Other industry,19.1,D,,F,,F,0.0,A,0.0,A,8.9,D,Statistics Canada CSBC Q2 2026
+6,Quebec,4,Construction,AEC direct: Construction,12.5,B,17.3,E,18.0,E,13.4,E,16.0,E,,F,Statistics Canada CSBC Q2 2026
+6,Quebec,5,Manufacturing,Operational comparator: Manufacturing,17.4,C,21.5,E,11.4,C,2.6,A,4.2,B,67.8,E,Statistics Canada CSBC Q2 2026
+6,Quebec,6,Wholesale trade,Other industry,6.6,B,,F,,F,,F,0.6,A,,F,Statistics Canada CSBC Q2 2026
+6,Quebec,7,Retail trade,Other industry,27.5,D,,F,,F,0.0,A,9.4,D,,F,Statistics Canada CSBC Q2 2026
+6,Quebec,8,Transportation and warehousing,Other industry,18.1,C,,F,,F,,F,0.0,A,,F,Statistics Canada CSBC Q2 2026
+6,Quebec,9,Information and cultural industries,Other industry,35.1,D,,F,21.3,D,4.5,B,1.5,A,48.9,E,Statistics Canada CSBC Q2 2026
+6,Quebec,10,Finance and insurance,Other industry,49.8,D,47.4,E,51.6,E,,F,,F,34.6,E,Statistics Canada CSBC Q2 2026
+6,Quebec,11,Real estate and rental and leasing,Other industry,37.5,E,27.5,E,18.8,E,,F,0.1,A,,F,Statistics Canada CSBC Q2 2026
+6,Quebec,12,"Professional, scientific and technical services",AEC professional-services comparator,30.7,C,42.9,E,25.0,E,5.1,B,20.4,E,36.4,E,Statistics Canada CSBC Q2 2026
+6,Quebec,13,"Administrative and support, waste management and remediation services",Other industry,15.8,C,,F,31.7,E,3.5,A,1.6,A,,F,Statistics Canada CSBC Q2 2026
+6,Quebec,14,Health care and social assistance,Other industry,18.1,C,34.5,E,,F,,F,0.0,A,18.5,E,Statistics Canada CSBC Q2 2026
+6,Quebec,15,"Arts, entertainment and recreation",Other industry,29.6,D,31.7,E,23.8,E,10.1,D,10.2,D,63.1,E,Statistics Canada CSBC Q2 2026
+6,Quebec,16,Accommodation and food services,Other industry,19.2,C,10.7,C,4.2,B,,F,0.4,A,,F,Statistics Canada CSBC Q2 2026
+6,Quebec,17,Other services (except public administration),Other industry,22.2,C,3.7,D,0.2,A,0.0,A,1.9,D,96.3,D,Statistics Canada CSBC Q2 2026
+7,Ontario,2,"Agriculture, forestry, fishing and hunting",Other industry,6.6,B,,F,8.2,C,3.7,B,0.0,A,,F,Statistics Canada CSBC Q2 2026
+7,Ontario,3,"Mining, quarrying, and oil and gas extraction",Other industry,4.5,B,,F,,F,0.0,A,0.0,A,,F,Statistics Canada CSBC Q2 2026
+7,Ontario,4,Construction,AEC direct: Construction,4.6,A,,F,0.6,A,0.6,A,0.1,A,,F,Statistics Canada CSBC Q2 2026
+7,Ontario,5,Manufacturing,Operational comparator: Manufacturing,13.8,C,,F,,F,12.6,D,3.8,B,,F,Statistics Canada CSBC Q2 2026
+7,Ontario,6,Wholesale trade,Other industry,5.4,B,,F,9.7,D,9.0,D,,F,,F,Statistics Canada CSBC Q2 2026
+7,Ontario,7,Retail trade,Other industry,15.1,B,36.5,E,9.5,C,20.9,D,12.6,C,56.8,E,Statistics Canada CSBC Q2 2026
+7,Ontario,8,Transportation and warehousing,Other industry,7.0,B,13.6,E,1.6,A,,F,1.6,A,,F,Statistics Canada CSBC Q2 2026
+7,Ontario,9,Information and cultural industries,Other industry,30.9,D,47.3,E,46.4,E,35.4,E,12.1,C,42.7,E,Statistics Canada CSBC Q2 2026
+7,Ontario,10,Finance and insurance,Other industry,39.6,E,,F,15.9,D,6.4,C,7.9,C,,F,Statistics Canada CSBC Q2 2026
+7,Ontario,11,Real estate and rental and leasing,Other industry,8.3,C,,F,,F,0.4,A,,F,,F,Statistics Canada CSBC Q2 2026
+7,Ontario,12,"Professional, scientific and technical services",AEC professional-services comparator,31.8,B,36.6,D,23.0,C,11.9,C,16.0,C,58.0,D,Statistics Canada CSBC Q2 2026
+7,Ontario,13,"Administrative and support, waste management and remediation services",Other industry,12.5,B,,F,,F,10.3,D,12.8,D,20.3,E,Statistics Canada CSBC Q2 2026
+7,Ontario,14,Health care and social assistance,Other industry,28.6,C,1.7,A,16.8,D,1.1,A,15.0,D,67.8,E,Statistics Canada CSBC Q2 2026
+7,Ontario,15,"Arts, entertainment and recreation",Other industry,28.8,E,7.2,B,1.5,A,1.8,A,,F,,F,Statistics Canada CSBC Q2 2026
+7,Ontario,16,Accommodation and food services,Other industry,13.3,C,13.4,D,8.9,D,6.5,C,,F,,F,Statistics Canada CSBC Q2 2026
+7,Ontario,17,Other services (except public administration),Other industry,19.9,C,28.1,E,27.9,E,11.9,D,12.2,D,71.9,E,Statistics Canada CSBC Q2 2026
+8,Manitoba,2,"Agriculture, forestry, fishing and hunting",Other industry,0.8,A,0.0,A,0.0,A,0.0,A,0.0,A,100.0,A,Statistics Canada CSBC Q2 2026
+8,Manitoba,3,"Mining, quarrying, and oil and gas extraction",Other industry,0.0,A,,..,,..,,..,,..,,..,Statistics Canada CSBC Q2 2026
+8,Manitoba,4,Construction,AEC direct: Construction,7.3,B,,F,,F,5.8,B,0.0,A,,F,Statistics Canada CSBC Q2 2026
+8,Manitoba,5,Manufacturing,Operational comparator: Manufacturing,6.7,B,,F,,F,0.0,A,,F,,F,Statistics Canada CSBC Q2 2026
+8,Manitoba,6,Wholesale trade,Other industry,6.9,B,,F,,F,,F,,F,,F,Statistics Canada CSBC Q2 2026
+8,Manitoba,7,Retail trade,Other industry,7.9,C,,F,4.5,C,,F,0.0,A,,F,Statistics Canada CSBC Q2 2026
+8,Manitoba,8,Transportation and warehousing,Other industry,7.3,B,0.0,A,0.0,A,0.0,A,0.0,A,100.0,A,Statistics Canada CSBC Q2 2026
+8,Manitoba,9,Information and cultural industries,Other industry,47.1,C,87.2,C,66.1,E,69.0,E,6.7,C,11.5,C,Statistics Canada CSBC Q2 2026
+8,Manitoba,10,Finance and insurance,Other industry,46.3,E,29.1,E,12.3,D,6.0,C,17.6,E,59.3,E,Statistics Canada CSBC Q2 2026
+8,Manitoba,11,Real estate and rental and leasing,Other industry,14.2,C,,F,0.0,A,,F,6.3,D,,F,Statistics Canada CSBC Q2 2026
+8,Manitoba,12,"Professional, scientific and technical services",AEC professional-services comparator,46.2,D,47.1,E,38.8,E,19.6,E,14.4,E,30.1,E,Statistics Canada CSBC Q2 2026
+8,Manitoba,13,"Administrative and support, waste management and remediation services",Other industry,8.8,B,16.6,E,8.4,D,0.0,A,0.0,A,83.4,E,Statistics Canada CSBC Q2 2026
+8,Manitoba,14,Health care and social assistance,Other industry,19.0,C,6.3,C,0.1,A,0.0,A,,F,,F,Statistics Canada CSBC Q2 2026
+8,Manitoba,15,"Arts, entertainment and recreation",Other industry,10.2,C,0.0,A,0.0,A,0.0,A,0.0,A,100.0,A,Statistics Canada CSBC Q2 2026
+8,Manitoba,16,Accommodation and food services,Other industry,13.2,C,15.0,E,,F,0.0,A,0.0,A,,F,Statistics Canada CSBC Q2 2026
+8,Manitoba,17,Other services (except public administration),Other industry,0.1,A,100.0,A,100.0,A,0.0,A,0.0,A,0.0,A,Statistics Canada CSBC Q2 2026
+9,Saskatchewan,2,"Agriculture, forestry, fishing and hunting",Other industry,7.6,D,0.0,A,0.0,A,0.0,A,0.0,A,100.0,A,Statistics Canada CSBC Q2 2026
+9,Saskatchewan,3,"Mining, quarrying, and oil and gas extraction",Other industry,1.4,A,100.0,A,0.0,A,0.0,A,0.0,A,0.0,A,Statistics Canada CSBC Q2 2026
+9,Saskatchewan,4,Construction,AEC direct: Construction,13.8,D,,F,,F,,F,0.0,A,,F,Statistics Canada CSBC Q2 2026
+9,Saskatchewan,5,Manufacturing,Operational comparator: Manufacturing,16.0,D,,F,,F,8.8,D,,F,,F,Statistics Canada CSBC Q2 2026
+9,Saskatchewan,6,Wholesale trade,Other industry,4.9,B,97.8,A,0.0,A,0.0,A,0.0,A,2.2,A,Statistics Canada CSBC Q2 2026
+9,Saskatchewan,7,Retail trade,Other industry,9.3,B,1.3,A,1.0,A,0.0,A,1.1,A,97.7,A,Statistics Canada CSBC Q2 2026
+9,Saskatchewan,8,Transportation and warehousing,Other industry,0.2,A,0.0,A,0.0,A,0.0,A,0.0,A,100.0,A,Statistics Canada CSBC Q2 2026
+9,Saskatchewan,9,Information and cultural industries,Other industry,46.1,D,69.7,E,56.2,E,44.8,E,0.0,A,30.3,E,Statistics Canada CSBC Q2 2026
+9,Saskatchewan,10,Finance and insurance,Other industry,38.3,D,,F,,F,6.7,C,16.8,D,36.3,E,Statistics Canada CSBC Q2 2026
+9,Saskatchewan,11,Real estate and rental and leasing,Other industry,22.1,D,3.5,B,0.0,A,0.0,A,0.0,A,96.5,B,Statistics Canada CSBC Q2 2026
+9,Saskatchewan,12,"Professional, scientific and technical services",AEC professional-services comparator,33.0,D,16.8,E,2.5,B,0.2,A,1.7,B,83.2,E,Statistics Canada CSBC Q2 2026
+9,Saskatchewan,13,"Administrative and support, waste management and remediation services",Other industry,3.9,B,97.8,B,0.0,A,0.0,A,2.2,B,0.0,A,Statistics Canada CSBC Q2 2026
+9,Saskatchewan,14,Health care and social assistance,Other industry,17.9,C,0.2,A,0.0,A,0.0,A,0.0,A,99.8,A,Statistics Canada CSBC Q2 2026
+9,Saskatchewan,15,"Arts, entertainment and recreation",Other industry,23.2,D,,F,,F,,F,,F,,F,Statistics Canada CSBC Q2 2026
+9,Saskatchewan,16,Accommodation and food services,Other industry,9.7,B,12.2,C,0.0,A,0.0,A,0.0,A,87.8,C,Statistics Canada CSBC Q2 2026
+9,Saskatchewan,17,Other services (except public administration),Other industry,6.3,B,9.6,D,2.4,B,2.4,B,7.2,D,90.4,D,Statistics Canada CSBC Q2 2026
+10,Alberta,2,"Agriculture, forestry, fishing and hunting",Other industry,9.7,C,6.7,C,5.6,C,0.0,A,6.7,C,93.3,C,Statistics Canada CSBC Q2 2026
+10,Alberta,3,"Mining, quarrying, and oil and gas extraction",Other industry,13.4,C,3.8,B,,F,0.0,A,0.0,A,,F,Statistics Canada CSBC Q2 2026
+10,Alberta,4,Construction,AEC direct: Construction,8.1,C,,F,0.0,A,,F,0.0,A,,F,Statistics Canada CSBC Q2 2026
+10,Alberta,5,Manufacturing,Operational comparator: Manufacturing,9.3,C,,F,,F,,F,9.0,D,,F,Statistics Canada CSBC Q2 2026
+10,Alberta,6,Wholesale trade,Other industry,5.9,B,1.0,A,,F,0.0,A,0.0,A,,F,Statistics Canada CSBC Q2 2026
+10,Alberta,7,Retail trade,Other industry,13.4,D,,F,,F,,F,,F,,F,Statistics Canada CSBC Q2 2026
+10,Alberta,8,Transportation and warehousing,Other industry,0.8,A,100.0,A,0.0,A,100.0,A,100.0,A,0.0,A,Statistics Canada CSBC Q2 2026
+10,Alberta,9,Information and cultural industries,Other industry,69.8,C,51.7,E,48.4,E,39.2,E,9.6,C,34.1,E,Statistics Canada CSBC Q2 2026
+10,Alberta,10,Finance and insurance,Other industry,36.6,E,,F,,F,,F,,F,,F,Statistics Canada CSBC Q2 2026
+10,Alberta,11,Real estate and rental and leasing,Other industry,18.9,C,,F,,F,1.1,A,7.7,D,,F,Statistics Canada CSBC Q2 2026
+10,Alberta,12,"Professional, scientific and technical services",AEC professional-services comparator,28.0,D,,F,14.0,E,3.4,C,,F,,F,Statistics Canada CSBC Q2 2026
+10,Alberta,13,"Administrative and support, waste management and remediation services",Other industry,10.6,B,,F,,F,0.0,A,0.0,A,,F,Statistics Canada CSBC Q2 2026
+10,Alberta,14,Health care and social assistance,Other industry,39.9,D,21.1,E,10.5,C,1.4,A,2.8,D,75.2,E,Statistics Canada CSBC Q2 2026
+10,Alberta,15,"Arts, entertainment and recreation",Other industry,35.8,E,20.8,E,,F,11.2,E,1.3,A,,F,Statistics Canada CSBC Q2 2026
+10,Alberta,16,Accommodation and food services,Other industry,6.7,B,,F,12.9,E,0.0,A,0.0,A,19.3,E,Statistics Canada CSBC Q2 2026
+10,Alberta,17,Other services (except public administration),Other industry,10.7,C,0.5,A,0.5,A,0.5,A,0.5,A,99.5,A,Statistics Canada CSBC Q2 2026
+11,British Columbia,2,"Agriculture, forestry, fishing and hunting",Other industry,0.4,A,0.0,A,0.0,A,0.0,A,0.0,A,100.0,A,Statistics Canada CSBC Q2 2026
+11,British Columbia,3,"Mining, quarrying, and oil and gas extraction",Other industry,27.7,E,,F,,F,,F,,F,,F,Statistics Canada CSBC Q2 2026
+11,British Columbia,4,Construction,AEC direct: Construction,13.2,B,9.8,C,9.8,C,8.4,C,0.0,A,90.2,C,Statistics Canada CSBC Q2 2026
+11,British Columbia,5,Manufacturing,Operational comparator: Manufacturing,6.0,B,,F,,F,0.0,A,0.0,A,,F,Statistics Canada CSBC Q2 2026
+11,British Columbia,6,Wholesale trade,Other industry,25.4,D,39.7,E,,F,9.1,D,19.4,E,,F,Statistics Canada CSBC Q2 2026
+11,British Columbia,7,Retail trade,Other industry,34.5,D,28.9,E,,F,25.2,E,10.3,E,,F,Statistics Canada CSBC Q2 2026
+11,British Columbia,8,Transportation and warehousing,Other industry,17.6,D,,F,,F,0.1,A,1.1,A,,F,Statistics Canada CSBC Q2 2026
+11,British Columbia,9,Information and cultural industries,Other industry,52.3,D,42.9,E,39.0,E,57.5,E,18.5,D,27.6,D,Statistics Canada CSBC Q2 2026
+11,British Columbia,10,Finance and insurance,Other industry,35.2,E,,F,,F,1.1,A,4.8,B,,F,Statistics Canada CSBC Q2 2026
+11,British Columbia,11,Real estate and rental and leasing,Other industry,31.0,D,,F,9.7,D,9.7,D,10.4,D,,F,Statistics Canada CSBC Q2 2026
+11,British Columbia,12,"Professional, scientific and technical services",AEC professional-services comparator,36.4,C,45.2,E,16.5,D,7.4,C,18.1,E,42.8,E,Statistics Canada CSBC Q2 2026
+11,British Columbia,13,"Administrative and support, waste management and remediation services",Other industry,9.7,C,,F,,F,14.0,E,5.3,C,,F,Statistics Canada CSBC Q2 2026
+11,British Columbia,14,Health care and social assistance,Other industry,42.3,D,16.5,E,8.0,C,16.4,D,23.4,E,55.3,E,Statistics Canada CSBC Q2 2026
+11,British Columbia,15,"Arts, entertainment and recreation",Other industry,12.8,C,11.6,E,11.6,E,0.0,A,5.2,C,83.2,E,Statistics Canada CSBC Q2 2026
+11,British Columbia,16,Accommodation and food services,Other industry,11.2,D,,F,0.0,A,0.0,A,0.0,A,,F,Statistics Canada CSBC Q2 2026
+11,British Columbia,17,Other services (except public administration),Other industry,15.9,C,1.7,A,1.6,A,0.0,A,0.0,A,98.3,A,Statistics Canada CSBC Q2 2026
+12,Yukon,2,"Agriculture, forestry, fishing and hunting",Other industry,0.0,A,,..,,..,,..,,..,,..,Statistics Canada CSBC Q2 2026
+12,Yukon,3,"Mining, quarrying, and oil and gas extraction",Other industry,0.0,A,,..,,..,,..,,..,,..,Statistics Canada CSBC Q2 2026
+12,Yukon,4,Construction,AEC direct: Construction,,F,0.0,A,0.0,A,0.0,A,0.0,A,100.0,A,Statistics Canada CSBC Q2 2026
+12,Yukon,5,Manufacturing,Operational comparator: Manufacturing,0.0,A,,..,,..,,..,,..,,..,Statistics Canada CSBC Q2 2026
+12,Yukon,6,Wholesale trade,Other industry,,F,100.0,A,100.0,A,100.0,A,100.0,A,0.0,A,Statistics Canada CSBC Q2 2026
+12,Yukon,7,Retail trade,Other industry,,F,,F,8.6,D,0.0,A,0.0,A,,F,Statistics Canada CSBC Q2 2026
+12,Yukon,8,Transportation and warehousing,Other industry,,F,,F,,F,,F,,F,,F,Statistics Canada CSBC Q2 2026
+12,Yukon,9,Information and cultural industries,Other industry,3.8,A,100.0,A,100.0,A,0.0,A,0.0,A,0.0,A,Statistics Canada CSBC Q2 2026
+12,Yukon,10,Finance and insurance,Other industry,0.0,A,,..,,..,,..,,..,,..,Statistics Canada CSBC Q2 2026
+12,Yukon,11,Real estate and rental and leasing,Other industry,0.0,A,,..,,..,,..,,..,,..,Statistics Canada CSBC Q2 2026
+12,Yukon,12,"Professional, scientific and technical services",AEC professional-services comparator,,F,,F,13.7,E,0.0,A,0.0,A,4.8,B,Statistics Canada CSBC Q2 2026
+12,Yukon,13,"Administrative and support, waste management and remediation services",Other industry,0.8,A,0.0,A,0.0,A,0.0,A,0.0,A,100.0,A,Statistics Canada CSBC Q2 2026
+12,Yukon,14,Health care and social assistance,Other industry,,F,,F,,F,4.0,B,0.0,A,,F,Statistics Canada CSBC Q2 2026
+12,Yukon,15,"Arts, entertainment and recreation",Other industry,,F,0.0,A,0.0,A,0.0,A,0.0,A,100.0,A,Statistics Canada CSBC Q2 2026
+12,Yukon,16,Accommodation and food services,Other industry,2.8,A,100.0,A,,F,0.0,A,0.0,A,0.0,A,Statistics Canada CSBC Q2 2026
+12,Yukon,17,Other services (except public administration),Other industry,,F,0.0,A,0.0,A,0.0,A,0.0,A,100.0,A,Statistics Canada CSBC Q2 2026
+13,Northwest Territories,2,"Agriculture, forestry, fishing and hunting",Other industry,0.0,A,,..,,..,,..,,..,,..,Statistics Canada CSBC Q2 2026
+13,Northwest Territories,3,"Mining, quarrying, and oil and gas extraction",Other industry,0.0,A,,..,,..,,..,,..,,..,Statistics Canada CSBC Q2 2026
+13,Northwest Territories,4,Construction,AEC direct: Construction,10.4,D,,F,0.0,A,0.0,A,0.0,A,,F,Statistics Canada CSBC Q2 2026
+13,Northwest Territories,5,Manufacturing,Operational comparator: Manufacturing,,F,0.0,A,0.0,A,0.0,A,0.0,A,100.0,A,Statistics Canada CSBC Q2 2026
+13,Northwest Territories,6,Wholesale trade,Other industry,21.3,E,,F,,F,0.0,A,0.0,A,,F,Statistics Canada CSBC Q2 2026
+13,Northwest Territories,7,Retail trade,Other industry,0.0,A,,..,,..,,..,,..,,..,Statistics Canada CSBC Q2 2026
+13,Northwest Territories,8,Transportation and warehousing,Other industry,3.8,B,0.0,A,0.0,A,0.0,A,0.0,A,100.0,A,Statistics Canada CSBC Q2 2026
+13,Northwest Territories,9,Information and cultural industries,Other industry,,F,,F,,F,,F,,F,0.0,A,Statistics Canada CSBC Q2 2026
+13,Northwest Territories,10,Finance and insurance,Other industry,0.0,A,,..,,..,,..,,..,,..,Statistics Canada CSBC Q2 2026
+13,Northwest Territories,11,Real estate and rental and leasing,Other industry,4.9,C,100.0,A,0.0,A,0.0,A,0.0,A,0.0,A,Statistics Canada CSBC Q2 2026
+13,Northwest Territories,12,"Professional, scientific and technical services",AEC professional-services comparator,6.8,B,0.0,A,0.0,A,0.0,A,0.0,A,100.0,A,Statistics Canada CSBC Q2 2026
+13,Northwest Territories,13,"Administrative and support, waste management and remediation services",Other industry,,F,0.0,A,0.0,A,0.0,A,0.0,A,100.0,A,Statistics Canada CSBC Q2 2026
+13,Northwest Territories,14,Health care and social assistance,Other industry,,F,0.0,A,0.0,A,0.0,A,0.0,A,100.0,A,Statistics Canada CSBC Q2 2026
+13,Northwest Territories,15,"Arts, entertainment and recreation",Other industry,0.0,A,,..,,..,,..,,..,,..,Statistics Canada CSBC Q2 2026
+13,Northwest Territories,16,Accommodation and food services,Other industry,5.5,C,0.0,A,100.0,A,0.0,A,0.0,A,0.0,A,Statistics Canada CSBC Q2 2026
+13,Northwest Territories,17,Other services (except public administration),Other industry,18.3,E,0.0,A,0.0,A,0.0,A,3.8,B,96.2,B,Statistics Canada CSBC Q2 2026
+14,Nunavut,2,"Agriculture, forestry, fishing and hunting",Other industry,0.0,A,,..,,..,,..,,..,,..,Statistics Canada CSBC Q2 2026
+14,Nunavut,3,"Mining, quarrying, and oil and gas extraction",Other industry,0.0,A,,..,,..,,..,,..,,..,Statistics Canada CSBC Q2 2026
+14,Nunavut,4,Construction,AEC direct: Construction,0.0,A,,..,,..,,..,,..,,..,Statistics Canada CSBC Q2 2026
+14,Nunavut,5,Manufacturing,Operational comparator: Manufacturing,0.0,A,,..,,..,,..,,..,,..,Statistics Canada CSBC Q2 2026
+14,Nunavut,6,Wholesale trade,Other industry,0.0,A,,..,,..,,..,,..,,..,Statistics Canada CSBC Q2 2026
+14,Nunavut,7,Retail trade,Other industry,0.0,A,,..,,..,,..,,..,,..,Statistics Canada CSBC Q2 2026
+14,Nunavut,8,Transportation and warehousing,Other industry,,F,0.0,A,0.0,A,0.0,A,0.0,A,100.0,A,Statistics Canada CSBC Q2 2026
+14,Nunavut,9,Information and cultural industries,Other industry,0.0,A,,..,,..,,..,,..,,..,Statistics Canada CSBC Q2 2026
+14,Nunavut,10,Finance and insurance,Other industry,,F,100.0,A,,F,0.0,A,,F,0.0,A,Statistics Canada CSBC Q2 2026
+14,Nunavut,11,Real estate and rental and leasing,Other industry,14.3,E,100.0,A,100.0,A,0.0,A,0.0,A,0.0,A,Statistics Canada CSBC Q2 2026
+14,Nunavut,12,"Professional, scientific and technical services",AEC professional-services comparator,,F,,F,,F,0.0,A,,F,,F,Statistics Canada CSBC Q2 2026
+14,Nunavut,13,"Administrative and support, waste management and remediation services",Other industry,3.8,A,100.0,A,100.0,A,0.0,A,0.0,A,0.0,A,Statistics Canada CSBC Q2 2026
+14,Nunavut,14,Health care and social assistance,Other industry,,F,0.0,A,0.0,A,0.0,A,0.0,A,100.0,A,Statistics Canada CSBC Q2 2026
+14,Nunavut,15,"Arts, entertainment and recreation",Other industry,0.0,A,,..,,..,,..,,..,,..,Statistics Canada CSBC Q2 2026
+14,Nunavut,16,Accommodation and food services,Other industry,19.1,E,0.0,A,,F,0.0,A,0.0,A,,F,Statistics Canada CSBC Q2 2026
+14,Nunavut,17,Other services (except public administration),Other industry,4.1,A,0.0,A,0.0,A,0.0,A,100.0,A,0.0,A,Statistics Canada CSBC Q2 2026
