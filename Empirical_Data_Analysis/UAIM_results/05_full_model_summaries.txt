@@ -1,0 +1,76 @@
+$INN
+
+Call:
+glm(formula = forms[[target]], family = poisson(link = "log"), 
+    data = dat)
+
+Coefficients:
+            Estimate Std. Error z value Pr(>|z|)    
+(Intercept) 0.915164   0.047273  19.359  < 2e-16 ***
+FM          2.072521   0.053942  38.421  < 2e-16 ***
+TR          0.499452   0.009653  51.741  < 2e-16 ***
+PM          0.082705   0.010994   7.522 5.38e-14 ***
+SZ          0.202416   0.031941   6.337 2.34e-10 ***
+AII         1.549200   0.036438  42.516  < 2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for poisson family taken to be 1)
+
+    Null deviance: 7774.93  on 149  degrees of freedom
+Residual deviance:  162.37  on 144  degrees of freedom
+AIC: 1044
+
+Number of Fisher Scoring iterations: 4
+
+
+$DV
+
+Call:
+lm(formula = forms[[target]], data = dat)
+
+Residuals:
+     Min       1Q   Median       3Q      Max 
+-1.57096 -0.34184  0.00451  0.32287  1.72783 
+
+Coefficients:
+            Estimate Std. Error t value Pr(>|t|)    
+(Intercept) -0.46734    0.23494  -1.989   0.0486 *  
+FM           0.11951    0.25367   0.471   0.6382    
+TR          -0.18844    0.07375  -2.555   0.0117 *  
+PM           0.25079    0.05635   4.451  1.7e-05 ***
+SZ          -0.12877    0.17545  -0.734   0.4642    
+AII         -2.23117    0.17797 -12.537  < 2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 0.6243 on 144 degrees of freedom
+Multiple R-squared:   0.57,	Adjusted R-squared:  0.555 
+F-statistic: 38.17 on 5 and 144 DF,  p-value: < 2.2e-16
+
+
+$RW
+
+Call:
+lm(formula = forms[[target]], data = dat)
+
+Residuals:
+     Min       1Q   Median       3Q      Max 
+-1.56978 -0.21882  0.02907  0.27541  1.91805 
+
+Coefficients:
+            Estimate Std. Error t value Pr(>|t|)    
+(Intercept)  2.87449    0.20462  14.048  < 2e-16 ***
+FM          -0.39995    0.22093  -1.810   0.0723 .  
+TR           0.27730    0.06424   4.317 2.93e-05 ***
+PM          -0.26683    0.04908  -5.437 2.26e-07 ***
+SZ          -0.07465    0.15281  -0.489   0.6259    
+AII         -1.61012    0.15500 -10.388  < 2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 0.5437 on 144 degrees of freedom
+Multiple R-squared:  0.5326,	Adjusted R-squared:  0.5164 
+F-statistic: 32.82 on 5 and 144 DF,  p-value: < 2.2e-16
+
+
