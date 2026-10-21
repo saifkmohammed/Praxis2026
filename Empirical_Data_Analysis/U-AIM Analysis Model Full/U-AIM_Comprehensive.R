@@ -7,7 +7,7 @@
 # No data values are changed except missing DV/RW filled in completed imputation copies.
 
 options(stringsAsFactors=FALSE)
-set.seed(20261019)
+set.seed(45)
 packages <- c('mice','ggplot2','lmtest','sandwich','car')
 for (p in packages) if (!requireNamespace(p,quietly=TRUE)) install.packages(p,repos='https://cloud.r-project.org')
 suppressPackageStartupMessages(library(mice))
