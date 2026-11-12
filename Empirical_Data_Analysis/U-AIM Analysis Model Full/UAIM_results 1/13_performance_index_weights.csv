@@ -1,0 +1,5 @@
+"profile","w_INN","w_DV","w_RW"
+"equal",0.333333333333333,0.333333333333333,0.333333333333333
+"innovation_priority",0.6,0.2,0.2
+"delay_risk_priority",0.2,0.6,0.2
+"rework_priority",0.2,0.2,0.6
